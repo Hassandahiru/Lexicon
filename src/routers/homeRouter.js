@@ -95,4 +95,21 @@ homeRouter.post('/words', async (req, res) => {
   }
 });
 
+// for fetching definitions
+homeRouter.get('/definitions', async (req, res) => {
+  try {
+    // Fetch all documents from the database, including their contents
+    const result = await db.allDocs({ include_docs: true });
+    
+    // Map the result to extract documents
+    const words = result.rows.map(row => row.doc);
+
+    // Send the array of word documents as a JSON response
+    res.json(words);
+  } catch (error) {
+    // Handle any errors that occur during the fetch
+    res.status(500).json({ error: 'Failed to fetch words' });
+  }
+});
+
 export { homeRouter };

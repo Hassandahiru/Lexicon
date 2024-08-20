@@ -7,25 +7,63 @@
     <link rel="stylesheet" href="../css/home.css" type="text/css">
 </head>
 <body>
-    <div class="container">
-        <h1 class="title">Lexicon</h1>
-        <div class="form-container">
-            <input type="text" id="word-input" placeholder="Enter a word">
-            <select id="bucket-select">
-                <option value="General">General</option>
-                <option value="Science">Science</option>
-                <option value="Reading">Reading</option>
-                <option value="Slang">Slang</option>
-            </select>
-            <button id="add-word-btn">Add Word</button>
-        </div>
-        <div class="word-list">
-            <h2>Words Added:</h2>
-            <ul id="words-ul">
-                <!-- Words will be dynamically added here -->
-            </ul>
-        </div>
+<div class="container">
+
+    <h1 class="title">Lexicon</h1>
+    <div class="form-container">
+        <input type="text" id="word-input" placeholder="Enter a word">
+        <select id="bucket-select">
+            <option value="General">General</option>
+            <option value="Science">Science</option>
+            <option value="Reading">Reading</option>
+            <option value="Slang">Slang</option>
+        </select>
+        <button id="add-word-btn">Add Word</button>
     </div>
-    <script type= "module" src="../js/home.js"></script>
+    <div class="menu">
+
+        <ul class="menu__tabs">
+            <li><a href="#words-list"><i class="fa fa-list"></i> Word List</a></li>
+            <li><a href="#word-definitions"><i class="fa fa-book"></i> Word Definitions</a></li>
+            <li><a href="#sample-sentences"><i class="fa fa-pencil"></i> Sample Sentences</a></li>
+        </ul>
+        <section class="menu__wrapper">
+            <article id="form-container" class="menu__item item-active"></article>
+            <article id="words-list" class="menu__item">
+                <div class="word-list">
+                    <h2>Words Added:</h2>
+                    <ul id="words-ul">
+                        <!-- Words will be dynamically added here -->
+                    </ul>
+                </div>
+            </article>
+            <article id="word-definitions" class="menu__item">
+                <h3>Word Definitions</h3>
+                <p>Here you can find definitions for the words you've added.</p>
+                <div class="table-container">
+                <table class="word-definition-table">
+                    <thead>
+                        <tr>
+                            <th>Word</th>
+                            <th>Definitions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="definitions-tbody">
+                        <!-- Word definitions will be dynamically added here -->
+                    </tbody>
+                </table>
+            </div>
+            </article>
+            <article id="sample-sentences" class="menu__item">
+                <h3>Sample Sentences</h3>
+                <p>Create sample sentences for the words you've added to better understand their usage.</p>
+            </article>
+        </section>
+        <div class="menu--shadow"></div>
+    </div>
+
+</div>
+
+<script type="module" src="../js/home.js"></script>
 </body>
 </html>

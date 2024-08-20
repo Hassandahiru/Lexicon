@@ -1,8 +1,19 @@
 document.addEventListener('DOMContentLoaded', (event) => {
   console.log('DOM fully loaded and parsed');
+  
+  // Menu Tabular
+  const menuTabs = document.querySelectorAll('.menu__tabs li a');
+  menuTabs.forEach(tab => {
+      tab.addEventListener('click', function(e) {
+          e.preventDefault();
+          menuTabs.forEach(t => t.classList.remove('active'));
+          this.classList.add('active');
+          const items = document.querySelectorAll('.menu__item');
+          items.forEach(item => item.classList.remove('item-active'));
+          document.querySelector(this.hash).classList.add('item-active');
+      });
+  });
 });
-
-
 
 const addWordBtn = document.getElementById('add-word-btn');
 const wordInput = document.getElementById('word-input');
@@ -58,9 +69,43 @@ try {
           console.error('Error adding words:', error);
         }
       };
+
+      const fetchAndDisplayDefinitions = async () => {
+        try {
+          const response = await fetch('http://localhost:4020/home/definitions');
+          const words = await response.json();
+    
+          const tableBody = document.querySelector('#definitions-tbody');
+          tableBody.innerHTML = ''; // Clear the table before adding new rows
+    
+          words.forEach(word => {
+            const row = document.createElement('tr');
+            const termCell = document.createElement('td');
+            const definitionCell = document.createElement('td');
+    
+            termCell.textContent = word.term;
+    
+            // Concatenate the first two definitions
+            const firstTwoDefinitions = word.definitions.slice(0, 2)
+              .map(def => `${def.partOfSpeech}: ${def.definition}`).join(' | ');
+    
+            definitionCell.textContent = firstTwoDefinitions;
+    
+            row.appendChild(termCell);
+            row.appendChild(definitionCell);
+            tableBody.appendChild(row);
+          });
+        } catch (error) {
+          console.error('Error fetching words:', error);
+        }
+      };
       // Periodically send words to the backend every 10 seconds
       setInterval(() => {
         if (words.length > 0) {
           addWords(words);
         }
       }, 30000); // 10 seconds
+
+        // Periodically fetch and display definitions every 30 seconds
+  fetchAndDisplayDefinitions(); // Initial call
+  setInterval(fetchAndDisplayDefinitions, 30000); // Subsequent calls every 30 seconds
