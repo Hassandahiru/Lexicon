@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lexicon App</title>
+    <link rel="stylesheet" href="../css/home.css" type="text/css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Lexicon</h1>
+        <div class="form-container">
+            <input type="text" id="word-input" placeholder="Enter a word">
+            <select id="bucket-select">
+                <option value="General">General</option>
+                <option value="Science">Science</option>
+                <option value="Reading">Reading</option>
+                <option value="Slang">Slang</option>
+            </select>
+            <button id="add-word-btn">Add Word</button>
+        </div>
+        <div class="word-list">
+            <h2>Words Added:</h2>
+            <ul id="words-ul">
+                <!-- Words will be dynamically added here -->
+            </ul>
+        </div>
+    </div>
+    <script type= "module" src="../js/home.js"></script>
+</body>
+</html>

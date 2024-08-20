@@ -1,0 +1,3 @@
+ps aux | grep mongod     // this is to see all mongodb processes
+
+kill <PID>               // kill a process

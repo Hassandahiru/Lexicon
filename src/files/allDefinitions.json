@@ -1,0 +1,289 @@
+[
+  {
+    "id": "20f6f6e7-db68-4a52-ade5-21ba4ca5b515",
+    "term": "mien",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Demeanor; facial expression or attitude, especially one which is intended by its bearer."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A specific facial expression."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.123Z",
+    "_id": "20f6f6e7-db68-4a52-ade5-21ba4ca5b515",
+    "_rev": "1-91274c28548e686cbbc671bccb584926"
+  },
+  {
+    "id": "217036f1-0fd4-4c1b-b81b-d7979937e11f",
+    "term": "stymied",
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To thwart or stump; to cause to fail or to leave hopelessly puzzled, confused, or stuck."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To bring into the position of, or impede by, a stymie."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.199Z",
+    "_id": "217036f1-0fd4-4c1b-b81b-d7979937e11f",
+    "_rev": "1-d80b7b9dd0c9a978a71af66abcc0c8aa"
+  },
+  {
+    "id": "4de08399-5a09-49d8-94ac-7b9bdc594db5",
+    "term": "banality",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The quality of being banal."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Something which is banal."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A feudal right or obligation, especially the obligation for a peasant to grind grain at the lord's mill, or the profits accruing from such rights."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.287Z",
+    "_id": "4de08399-5a09-49d8-94ac-7b9bdc594db5",
+    "_rev": "1-216df5b82d28ce1fbd2b832ed9230c6d"
+  },
+  {
+    "id": "51b64923-949d-4040-8e40-883a2219d6cd",
+    "term": "meretricious",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Tastelessly gaudy; superficially attractive but having in reality no value or substance; falsely alluring."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Involving unlawful sexual connection or lack of consent by at least one party (said of a romantic relationship)"
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Of, or relating to prostitutes or prostitution."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.189Z",
+    "_id": "51b64923-949d-4040-8e40-883a2219d6cd",
+    "_rev": "1-6dbe8962286e12d58c5b32d5fd7ba238"
+  },
+  {
+    "id": "61355444-9295-48c8-9f89-37c516e201da",
+    "term": "virulent",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "(of a disease or disease-causing agent) Highly infectious, malignant or deadly."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Hostile to the point of being venomous; intensely acrimonious."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.185Z",
+    "_id": "61355444-9295-48c8-9f89-37c516e201da",
+    "_rev": "1-e881a7c484338f3760652fef0f6ce2e9"
+  },
+  {
+    "id": "66541d9d-88e7-4c5f-a6ba-47110f893c1a",
+    "term": "tenuous",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Thin in substance or consistency."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Insubstantial."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.126Z",
+    "_id": "66541d9d-88e7-4c5f-a6ba-47110f893c1a",
+    "_rev": "1-4c2b9607243f2f4f43ef3483ac601464"
+  },
+  {
+    "id": "80253e6a-1b4c-4a35-a3f2-d02064a4972b",
+    "term": "tumult",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Confused, agitated noise as made by a crowd."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Violent commotion or agitation, often with confusion of sounds."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A riot or uprising."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To make a tumult; to be in great commotion."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:24.926Z",
+    "_id": "80253e6a-1b4c-4a35-a3f2-d02064a4972b",
+    "_rev": "1-dbb35b589b440e2df559c0cafdf4c55b"
+  },
+  {
+    "id": "8df17d1a-18bb-465b-a2d6-3a23dad184ec",
+    "term": "verbiage",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Overabundance of words."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "The manner in which something is expressed in words."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.204Z",
+    "_id": "8df17d1a-18bb-465b-a2d6-3a23dad184ec",
+    "_rev": "1-8889ac5c93b482e332ba6e1fa7712bce"
+  },
+  {
+    "id": "af6c4d42-6612-453e-b04f-831aaa63eda2",
+    "term": "intermittently",
+    "definitions": [
+      {
+        "partOfSpeech": "adverb",
+        "definition": "Stopping or starting at intervals."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.195Z",
+    "_id": "af6c4d42-6612-453e-b04f-831aaa63eda2",
+    "_rev": "1-da7b1575dc45f59e825521e85bb567ed"
+  },
+  {
+    "id": "b0a94b82-bab4-475e-8226-0551e6b64e3c",
+    "term": "swarthy",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A swarthy person."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Tawny, dusky, dark."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Dark-skinned."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Darker-skinned than white, but lighter-skinned than tawny."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Evil, malicious."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Weathered, rough."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.192Z",
+    "_id": "b0a94b82-bab4-475e-8226-0551e6b64e3c",
+    "_rev": "1-4950c683da96c26c9547ae9ec6b47a43"
+  },
+  {
+    "id": "be7e9b5a-c642-4ee2-a580-84896c7b1873",
+    "term": "diocese",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Administrative division of the later Roman Empire, starting with the tetrarchy."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Region administered by a bishop."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.131Z",
+    "_id": "be7e9b5a-c642-4ee2-a580-84896c7b1873",
+    "_rev": "1-387ee53d7c9d64174f5ae8cb8f5ae754"
+  },
+  {
+    "id": "d9c77c0d-3e4f-4505-b9d0-31a3ab772a90",
+    "term": "incandescent",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An incandescent lamp or bulb"
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Emitting light as a result of being heated"
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Shining very brightly"
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Showing intense emotion, as of a performance, etc."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.197Z",
+    "_id": "d9c77c0d-3e4f-4505-b9d0-31a3ab772a90",
+    "_rev": "1-4c629f75804f82f5bda91579d5cb8606"
+  },
+  {
+    "id": "feac5328-308a-447b-805c-a8e92307b7f9",
+    "term": "cynosure",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "(usually capitalized) Ursa Minor or Polaris, the North Star, used as a guide by navigators."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "That which serves to guide or direct; a guiding star."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Something that is the center of attention; an object that serves as a focal point of attraction and admiration."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T09:39:25.125Z",
+    "_id": "feac5328-308a-447b-805c-a8e92307b7f9",
+    "_rev": "1-9abdac5f25981b4a0f0a9b516b6e1683"
+  }
+]
