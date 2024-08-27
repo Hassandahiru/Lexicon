@@ -49,6 +49,29 @@ function deleteLockFileIfExists() {
   }
 }
 
+async function getAllTerms() {
+  try {
+      // Fetch all documents from the database
+      const result = await db.allDocs({ include_docs: true });
+
+      // Map the 'term' attributes to an array
+      const terms = result.rows.map(row => row.doc.term);
+
+      return terms;
+  } catch (error) {
+      console.error('Error fetching terms:', error);
+      return [];
+  }
+}
+
+// Example usage
+
+/* getAllTerms().then(terms => {
+  console.log('All terms:', terms);
+}).catch(error => {
+  console.error('Error:', error);
+}); */
+
 
 // Call the function to delete all documents
 //deleteAllDocuments();
@@ -59,6 +82,6 @@ function deleteLockFileIfExists() {
 
 
 // Fetch and display the documents
-export { fetchAllDocuments, deleteAllDocuments, deleteLockFileIfExists }; 
+export { fetchAllDocuments, deleteAllDocuments, deleteLockFileIfExists, getAllTerms }; 
 
 

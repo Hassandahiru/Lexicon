@@ -1,0 +1,91 @@
+[
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite years of training, she still felt like an amateur in the metier of international diplomacy. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bard strummed a mournful melody on his ancient lyre, its strings echoing the sorrow of the fallen king. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": ""
+  },
+  {
+    "term": "admonish",
+    "generatedSentence": ""
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist assiduously worked on her masterpiece, meticulously blending colors and shaping details for hours on end. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "mien",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the storm raging outside, her **mien** remained calm and collected, inspiring confidence in those around her. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lack of funding completely stymied the research team's progress on the groundbreaking project. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lascivious",
+    "generatedSentence": ""
+  },
+  {
+    "term": "neophyte",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The neophyte nervously navigated the complex controls of the spaceship, relying heavily on the experienced pilot's guidance. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The professor's extensive research was compiled into a series of scholarly treatises on the history of ancient civilizations. \n"
+        }
+      ],
+      "role": "model"
+    }
+  }
+]

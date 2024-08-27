@@ -1,0 +1,1402 @@
+node:internal/modules/cjs/loader:1051
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/hassan/Desktop/Projects_DevFiles/services/LexiconGemini/sentenceModel.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v20.8.0
+node:internal/modules/cjs/loader:1051
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/hassan/Desktop/Projects_DevFiles/services/LexiconGemini/sentenceModel.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v20.8.0
+node:internal/modules/cjs/loader:1051
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/hassan/Desktop/Projects_DevFiles/services/LexiconGemini/sentenceModel.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v20.8.0
+file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/config.js:1
+const googleAPIkey = AIzaSyD01A5xwPLEZyyikDhseid9DRkPXlvH4T4;
+                     ^
+
+ReferenceError: AIzaSyD01A5xwPLEZyyikDhseid9DRkPXlvH4T4 is not defined
+    at file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/config.js:1:22
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+
+Node.js v20.8.0
+file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/config.js:1
+const googleAPIkey = AIzaSyD01A5xwPLEZyyikDhseid9DRkPXlvH4T4;
+                     ^
+
+ReferenceError: AIzaSyD01A5xwPLEZyyikDhseid9DRkPXlvH4T4 is not defined
+    at file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/config.js:1:22
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+
+Node.js v20.8.0
+PouchDB instance created
+Error fetching terms: ReferenceError: lexiconDB is not defined
+    at getAllTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/scripts/DBfunctions.js:55:22)
+    at simpleSentenceTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:12:29)
+    at file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:36:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+File /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json created.
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Error fetching terms: ReferenceError: lexiconDB is not defined
+    at getAllTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/scripts/DBfunctions.js:55:22)
+    at simpleSentenceTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:12:29)
+    at file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:36:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Error fetching terms: ReferenceError: lexiconDB is not defined
+    at getAllTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/scripts/DBfunctions.js:55:22)
+    at simpleSentenceTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:12:29)
+    at file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:36:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Error fetching terms: ReferenceError: lexiconDB is not defined
+    at getAllTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/scripts/DBfunctions.js:55:22)
+    at simpleSentenceTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:12:29)
+    at file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:36:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Error fetching terms: ReferenceError: lexiconDB is not defined
+    at getAllTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/scripts/DBfunctions.js:55:22)
+    at simpleSentenceTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:12:29)
+    at file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:36:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Error fetching terms: ReferenceError: lexiconDB is not defined
+    at getAllTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/scripts/DBfunctions.js:55:22)
+    at simpleSentenceTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:12:29)
+    at file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:36:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+File /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json created.
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+File /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json created.
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+Error generating sentences: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/@google/generative-ai/dist/index.mjs:401:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/@google/generative-ai/dist/index.mjs:374:9)
+    at async generateContent (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/@google/generative-ai/dist/index.mjs:813:22)
+    at async simpleSentenceTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:19:28) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+File /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json created.
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Array has been written to /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/simpleSentences.json
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:5
+import { fetch } from 'node-fetch';
+         ^^^^^
+SyntaxError: The requested module 'node-fetch' does not provide an export named 'fetch'
+    at ModuleJob._instantiate (node:internal/modules/esm/module_job:131:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:213:5)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+
+Node.js v20.8.0
+PouchDB instance created
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Error fetching terms: Error [OpenError]: IO error: lock /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/database/pouchDB/lexiconDB/LOCK: Resource temporarily unavailable
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/levelup/lib/levelup.js:119:23
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/abstract-leveldown/abstract-leveldown.js:38:14
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/deferred-leveldown/deferred-leveldown.js:31:21
+    at /Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/leveldown/node_modules/abstract-leveldown/abstract-leveldown.js:41:14 {
+  [cause]: undefined
+}
+PouchDB instance created
+Error generating sentences: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [429 Too Many Requests] Resource has been exhausted (e.g. check quota).
+    at handleResponseNotOk (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/@google/generative-ai/dist/index.mjs:401:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/@google/generative-ai/dist/index.mjs:374:9)
+    at async generateContent (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/node_modules/@google/generative-ai/dist/index.mjs:813:22)
+    at async simpleSentenceTerms (file:///Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/services/LexiconGemini/sentenceModel.js:26:28) {
+  status: 429,
+  statusText: 'Too Many Requests',
+  errorDetails: undefined
+}
