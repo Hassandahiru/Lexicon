@@ -1,8 +1,10 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { googleAPIkey } from "../../../config.js";
-import { getAllTerms } from '../../database/scripts/DBfunctions.js';
-import { writeArrayToFile } from "../../utils/generalFunctions.js.js";
-import fetch, { Headers, Request, Response } from 'node-fetch'; // Import required polyfills
+import { getAllTerms, deleteLockFileIfExists } from '../../database/scripts/DBfunctions.js';
+import { writeFile, readFile } from 'fs/promises'; 
+import { access } from 'fs/promises'; 
+import fetch, { Headers, Request, Response } from 'node-fetch'; 
+import { getAllTermsFromFile } from '../../utils/generalFunctions.js'
 
 // Tell GoogleGenerativeAI to use node-fetch and polyfill web APIs
 globalThis.fetch = fetch;
@@ -11,33 +13,49 @@ globalThis.Request = Request;
 globalThis.Response = Response;
 
 const genAI = new GoogleGenerativeAI(googleAPIkey);
-const lexiconAI = genAI.getGenerativeModel({ model: "gemini-1.5-flash"});
+const lexiconAI = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+
+const filePath = '/Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/sampleSentences.json';
+
+// Helper function to check if a file exists
+async function fileExists(filePath) {
+    try {
+        await access(filePath);
+        return true;
+    } catch {
+        return false;
+    }
+}
 
 async function simpleSentenceTerms() {
+    deleteLockFileIfExists();
     try {
         // Fetch all terms from the database
-        const words = await getAllTerms();
+        const words = await getAllTermsFromFile();
+
+        // Shuffle the words array
+        const shuffledWords = words.sort(() => 0.5 - Math.random());
+
+        // Pick the first 10 items from the shuffled array
+        const selectedWords = shuffledWords.slice(0, 10);
+
         const responses = [];
-        // Iterate over each word and generate a sentence
-        for (const word of words) {
+
+        // Iterate over each selected word and generate a sentence
+        for (const word of selectedWords) {
             const prompt = `Please generate a sentence with the word "${word}"`;
-            
+
             // Send the prompt to the AI model
             const result = await lexiconAI.generateContent(prompt);
-            console.log('Full Result:', JSON.stringify(result, null, 2)); // Highlighted Log
+            console.log('Full Result:', JSON.stringify(result, null, 2));
 
             const firstCandidate = result.response.candidates[0];
-            console.log('First Candidate:', JSON.stringify(firstCandidate, null, 2)); // Highlighted Log
+            console.log('First Candidate:', JSON.stringify(firstCandidate, null, 2));
 
-            // Access the generated sentence
             let generatedSentence = '';
-        
-            if (firstCandidate) {
-                // Check if 'parts' exists and is an array
-                if (firstCandidate.parts && Array.isArray(firstCandidate.parts)) {
-                    console.log(`Parts for word "${word}":`, JSON.stringify(firstCandidate.parts, null, 2)); // Highlighted Log
 
-                    // Attempt to extract 'text' from each part
+            if (firstCandidate) {
+                if (firstCandidate.parts && Array.isArray(firstCandidate.parts)) {
                     const sentenceParts = firstCandidate.parts.map(part => {
                         if (typeof part === 'string') {
                             return part;
@@ -53,61 +71,77 @@ async function simpleSentenceTerms() {
                     if (sentenceParts.trim()) {
                         generatedSentence = sentenceParts;
                     } else {
-                        console.warn(`No valid text found in parts for word "${word}".`); // Highlighted Log
+                        console.warn(`No valid text found in parts for word "${word}".`);
                     }
-                }
-                // Alternatively, if 'text' is a string
-                else if (firstCandidate.text && typeof firstCandidate.text === 'string') {
+                } else if (firstCandidate.text && typeof firstCandidate.text === 'string') {
                     generatedSentence = firstCandidate.text;
-                }
-                // Alternatively, if 'text' is a function, call it
-                else if (firstCandidate.text && typeof firstCandidate.text === 'function') {
+                } else if (firstCandidate.text && typeof firstCandidate.text === 'function') {
                     try {
                         generatedSentence = firstCandidate.text();
                     } catch (e) {
-                        console.error('Error calling text function:', e); // Highlighted Log
+                        console.error('Error calling text function:', e);
                     }
-                }
-                // Check other possible properties
-                else if (firstCandidate.output) {
+                } else if (firstCandidate.output) {
                     generatedSentence = firstCandidate.output;
-                }
-                else if (firstCandidate.content) {
+                } else if (firstCandidate.content) {
                     generatedSentence = firstCandidate.content;
-                }
-                else {
-                    console.warn(`Unable to extract sentence for word "${word}".`); // Highlighted Log
+                } else {
+                    console.warn(`Unable to extract sentence for word "${word}".`);
                 }
             }
 
-            // Log the extracted sentence
-            console.log(`Extracted sentence for "${word}":`, generatedSentence); // Highlighted Log
-           
-            // Store the term and generated sentence in the responses array
-            responses.push({
-                term: word,
-                generatedSentence: generatedSentence // Assuming the content is where the generated sentence is stored
-            });
+            console.log(`Extracted sentence for "${word}":`, generatedSentence);
 
-            // Stop after 10 items
-            if (responses.length >= 10) {
-                break;
+            const newEntry = {
+                term: word,
+                generatedSentence: generatedSentence
+            };
+
+            // Check if the new entry already exists in the existing data
+            const exists = responses.some(item =>
+                item.term === newEntry.term && item.generatedSentence === newEntry.generatedSentence
+            );
+
+            if (!exists) {
+                responses.push(newEntry);
             }
 
             await new Promise(resolve => setTimeout(resolve, 1000)); // 1 second delay
         }
-        // Return the responses as a JSON array
-        console.log('responses:', responses); // Highlighted Log
 
-        return responses;
-        
+        // Check if the file already exists
+        let existingData = [];
+        if (await fileExists(filePath)) {
+            const fileContent = await readFile(filePath, 'utf8');
+            existingData = JSON.parse(fileContent);
+        }
+
+        // Filter out duplicate entries based on 'term' and 'generatedSentence'
+        const uniqueResponses = responses.filter(newEntry => {
+            return !existingData.some(existingEntry =>
+                existingEntry.term === newEntry.term && existingEntry.generatedSentence === newEntry.generatedSentence
+            );
+        });
+
+        // Append unique responses to the existing data
+        const updatedData = [...existingData, ...uniqueResponses];
+
+        // Write the updated data back to the file, creating it if necessary
+        await writeFile(filePath, JSON.stringify(updatedData, null, 2), 'utf8');
+        console.log(`File successfully written to ${filePath}`);
+
+        return uniqueResponses;
+
     } catch (error) {
-        console.error('Error generating sentences:', error); // Highlighted Log
+        console.error('Error generating sentences:', error);
         return [];
     }
 }
 
-const sampleSentences = await simpleSentenceTerms();
-writeArrayToFile(sampleSentences, 'sampleSentences');
-//simpleSentenceTerms();
+// Set an interval to run the function every 20 minutes
+setInterval(simpleSentenceTerms, 20 * 60 * 1000); // 20 minutes in milliseconds
+
+// Initial run
+simpleSentenceTerms();
+
 export { simpleSentenceTerms };

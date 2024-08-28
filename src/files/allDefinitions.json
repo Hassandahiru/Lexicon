@@ -1,5 +1,119 @@
 [
   {
+    "id": "0f378cc2-b133-492e-b617-12d8809ef3e4",
+    "term": "metier",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Any activity that is pursued as a trade or profession; a calling."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "An activity to which a person is particularly suited; a forte."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "An outstanding or beneficial feature."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T10:02:24.859Z",
+    "_id": "0f378cc2-b133-492e-b617-12d8809ef3e4",
+    "_rev": "1-77464c4f724d467c076144460d4cfa84"
+  },
+  {
+    "id": "1003498c-80f7-4a35-abfc-5ccaf26e6d35",
+    "term": "lyre",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An ancient stringed musical instrument (a yoke lute chordophone) of Greek origin, consisting of two arms extending from a body to a crossbar (a yoke), and strings, parallel to the soundboard, connecting the body to the yoke."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A lyre-shaped sheet music holder that attaches to a wind instrument when a music stand is impractical."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A composer of lyric poetry."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T13:46:56.793Z",
+    "_id": "1003498c-80f7-4a35-abfc-5ccaf26e6d35",
+    "_rev": "1-99aae8463b62888644a19e1bc6fcf87c"
+  },
+  {
+    "id": "14beb039-f4f2-47f8-b1ff-450f3ed6b437",
+    "term": "fawning",
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To give birth to a fawn."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To exhibit affection or attempt to please."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To seek favour by flattery and obsequious behaviour (with on or upon)."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "(of a dog) To show devotion or submissiveness by wagging its tail, nuzzling, licking, etc."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Servile flattery."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Seeking favor by way of flattery; flattering, servile."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T10:53:42.593Z",
+    "_id": "14beb039-f4f2-47f8-b1ff-450f3ed6b437",
+    "_rev": "1-1714d5035c0e8e5abcfaec2c2a0c7501"
+  },
+  {
+    "id": "1c1059f0-1faf-41f2-9445-a13a3c97a3a1",
+    "term": "admonish",
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To warn or notify of a fault; to reprove gently or kindly, but seriously; to exhort."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To counsel against wrong practices; to caution or advise; to warn against danger or an offense; — followed by of, against, or a subordinate clause."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To instruct or direct; to inform; to notify."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T10:58:42.522Z",
+    "_id": "1c1059f0-1faf-41f2-9445-a13a3c97a3a1",
+    "_rev": "1-3344b2ae24b30c5f18bd9c0f51ab4446"
+  },
+  {
+    "id": "20df7efd-9189-472f-adff-99b214ab8365",
+    "term": "assiduously",
+    "definitions": [],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T10:07:24.923Z",
+    "_id": "20df7efd-9189-472f-adff-99b214ab8365",
+    "_rev": "1-57231cd1b8c96fa9eac094288399394e"
+  },
+  {
     "id": "20f6f6e7-db68-4a52-ade5-21ba4ca5b515",
     "term": "mien",
     "definitions": [
@@ -38,6 +152,203 @@
     "_rev": "1-d80b7b9dd0c9a978a71af66abcc0c8aa"
   },
   {
+    "id": "2245a12e-51cc-47af-9ce8-2d5159ab86d8",
+    "term": "lascivious",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Wanton; lewd, driven by lust, lustful."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T11:37:50.459Z",
+    "_id": "2245a12e-51cc-47af-9ce8-2d5159ab86d8",
+    "_rev": "1-49eec3c130f09e8b9418db8aa117ea59"
+  },
+  {
+    "id": "291bd2e3-bd76-4a75-9ed5-f6bad2f445f4",
+    "term": "neophyte",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A beginner; a person who is new to a subject, skill, or belief."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A novice (recent convert); a new convert or proselyte; a new monk."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A name given by the early Christians, and still given by the Roman Catholics, to those who have recently embraced the Christian faith, and been admitted to baptism, especially those converts from heathenism or Judaism."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A plant species recently introduced to an area (in contrast to archaeophyte, a long-established introduced species)."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T13:51:08.106Z",
+    "_id": "291bd2e3-bd76-4a75-9ed5-f6bad2f445f4",
+    "_rev": "1-e9e202022997463a03698606a12657b1"
+  },
+  {
+    "id": "2ef124f4-a67d-4e10-a679-2f03a70c67eb",
+    "term": "treatises",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A formal, usually lengthy, systematic discourse on some subject."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T10:08:24.733Z",
+    "_id": "2ef124f4-a67d-4e10-a679-2f03a70c67eb",
+    "_rev": "1-2e5c6ff626a68309195cb63220865b28"
+  },
+  {
+    "id": "2f74c0c3-9b06-417f-b011-65f5f4c4d2b2",
+    "term": "portentous",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Of momentous or ominous significance."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Ominously prophetic."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Puffed up with vanity."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T13:46:56.801Z",
+    "_id": "2f74c0c3-9b06-417f-b011-65f5f4c4d2b2",
+    "_rev": "1-77f42eaddd638fb688f0d6f8c6cd57e5"
+  },
+  {
+    "id": "2fef93a3-75bb-4767-8e1d-69ff4b33ef34",
+    "term": "weal",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Wealth, riches."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Welfare, prosperity."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "(by extension) Boon, benefit."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Specifically, the general happiness of a community, country etc. (often with qualifying word)."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-27T14:17:23.063Z",
+    "_id": "2fef93a3-75bb-4767-8e1d-69ff4b33ef34",
+    "_rev": "1-9e53a8aa3553411e4e8a10f5174b82d3"
+  },
+  {
+    "id": "311539ce-f0b0-40ea-983f-229814a7cacd",
+    "term": "vastitude",
+    "definitions": [],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T18:28:38.852Z",
+    "_id": "311539ce-f0b0-40ea-983f-229814a7cacd",
+    "_rev": "1-24788fe3a8410bb85bdb425b0445ee74"
+  },
+  {
+    "id": "33eb475c-ed99-4768-9843-a069deb21164",
+    "term": "diegesis",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A narration or recitation."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T19:24:14.815Z",
+    "_id": "33eb475c-ed99-4768-9843-a069deb21164",
+    "_rev": "1-6b1abb7d332a4e742cb3f996e73fab5b"
+  },
+  {
+    "id": "3994c7da-7867-4270-b218-00b7d856d758",
+    "term": "Vapid",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Offering nothing that is stimulating or challenging."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Lifeless, dull, or banal."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Tasteless, bland, or insipid."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T10:59:42.521Z",
+    "_id": "3994c7da-7867-4270-b218-00b7d856d758",
+    "_rev": "1-c57c7b827d20e584b21246c1de7cef4f"
+  },
+  {
+    "id": "434faafc-8e7a-4fd7-a4fc-1c42cdbe6536",
+    "term": "faffing",
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To waste time on an unproductive activity."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T18:28:09.960Z",
+    "_id": "434faafc-8e7a-4fd7-a4fc-1c42cdbe6536",
+    "_rev": "1-dbde9aa60f810633f6c2c7551ddfea77"
+  },
+  {
+    "id": "46d896a9-70da-4782-944d-06bc55e97483",
+    "term": "amalgam",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An alloy containing mercury."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A combination of different things."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "One of the ingredients in an alloy."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To amalgamate."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T11:34:03.167Z",
+    "_id": "46d896a9-70da-4782-944d-06bc55e97483",
+    "_rev": "1-1c587116b30c5e0ec611c33c294e3e6b"
+  },
+  {
     "id": "4de08399-5a09-49d8-94ac-7b9bdc594db5",
     "term": "banality",
     "definitions": [
@@ -59,6 +370,44 @@
     "dateAdded": "2024-08-20T09:39:25.287Z",
     "_id": "4de08399-5a09-49d8-94ac-7b9bdc594db5",
     "_rev": "1-216df5b82d28ce1fbd2b832ed9230c6d"
+  },
+  {
+    "id": "4f3a4972-8276-4e18-8c32-8c2301db54f8",
+    "term": "wiseacre",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "One who feigns knowledge or cleverness; one who is wisecracking; an insolent upstart."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A learned or wise man."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T14:10:50.413Z",
+    "_id": "4f3a4972-8276-4e18-8c32-8c2301db54f8",
+    "_rev": "1-bcba5e5e38db8a59994335ca33ef6e42"
+  },
+  {
+    "id": "504290f8-6cd0-4c7d-8eef-350884f73006",
+    "term": "insipid",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Unappetizingly flavorless."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Flat; lacking character or definition."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T11:34:33.080Z",
+    "_id": "504290f8-6cd0-4c7d-8eef-350884f73006",
+    "_rev": "1-bb1691512399c46a3ca5e4135d88be0b"
   },
   {
     "id": "51b64923-949d-4040-8e40-883a2219d6cd",
@@ -122,6 +471,146 @@
     "_rev": "1-4c2b9607243f2f4f43ef3483ac601464"
   },
   {
+    "id": "669c2d42-b2fb-42fe-8cfe-c10ce86bb143",
+    "term": "boisterous",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Full of energy; exuberant; noisy."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Characterized by violence and agitation; wild; stormy."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Having or resembling animal exuberance."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T13:47:55.901Z",
+    "_id": "669c2d42-b2fb-42fe-8cfe-c10ce86bb143",
+    "_rev": "1-48d095a051784005749a2fd982dd85e1"
+  },
+  {
+    "id": "6a784a62-01c4-471c-a424-88f065ef1fb5",
+    "term": "Forlornly",
+    "definitions": [],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-27T14:19:22.194Z",
+    "_id": "6a784a62-01c4-471c-a424-88f065ef1fb5",
+    "_rev": "1-30e462d642997a2381ad3ddd8ebf2273"
+  },
+  {
+    "id": "6c4aebfc-cf60-4b45-b947-7faa0c8f6ebc",
+    "term": "Upholster",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An upholsterer; a tradesman who finishes furniture."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To fit padding, stuffing, springs, webbing and fabric covering to (furniture)."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T19:11:35.361Z",
+    "_id": "6c4aebfc-cf60-4b45-b947-7faa0c8f6ebc",
+    "_rev": "1-196be871aa88ff46eca7ccaa41404755"
+  },
+  {
+    "id": "6f629899-222b-4b0c-9b01-2f4138d0ec0a",
+    "term": "gunwale",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The top edge of the hull of a nautical vessel, where it meets the deck."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T19:21:05.365Z",
+    "_id": "6f629899-222b-4b0c-9b01-2f4138d0ec0a",
+    "_rev": "1-56620593b8329eac4ad711377670deb8"
+  },
+  {
+    "id": "73f8cd85-7d22-4582-a18c-2282745e5e88",
+    "term": "aegis",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A mythological shield associated with the Greek deities Zeus and Athena (and their Roman counterparts Jupiter and Minerva) shown as a short cloak made of goatskin worn on the shoulders, more as an emblem of power and protection than a military shield. The aegis of Athena or Minerva is usually shown with a border of snakes and with the head of Medusa in the center."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Usually as under the aegis: guidance, protection; endorsement, sponsorship."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T13:41:18.683Z",
+    "_id": "73f8cd85-7d22-4582-a18c-2282745e5e88",
+    "_rev": "1-3ba8547e5263730ed1124939ebe62824"
+  },
+  {
+    "id": "79af54f5-8d41-4ee9-9700-ec8fdd9a4563",
+    "term": "jowls",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The jaw, jawbone; especially one of the lateral parts of the mandible."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A fold of fatty flesh under the chin, around the cheeks, or lower jaw (as a dewlap, wattle, crop, or double chin)."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "The cheek; especially the cheek meat of a hog."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Cut of fish including the head and adjacent parts"
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T18:31:08.919Z",
+    "_id": "79af54f5-8d41-4ee9-9700-ec8fdd9a4563",
+    "_rev": "1-c43203e11fa4969113cba69efff27745"
+  },
+  {
+    "id": "79e6989e-a625-4158-a06b-8ceed409b9d3",
+    "term": "foist",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A thief or pickpocket."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To introduce or insert surreptitiously or without warrant."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To force another to accept especially by stealth or deceit."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To pass off as genuine or worthy."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T20:17:40.017Z",
+    "_id": "79e6989e-a625-4158-a06b-8ceed409b9d3",
+    "_rev": "1-3455a47c537e2fb1330571cd44b2a727"
+  },
+  {
     "id": "80253e6a-1b4c-4a35-a3f2-d02064a4972b",
     "term": "tumult",
     "definitions": [
@@ -149,6 +638,29 @@
     "_rev": "1-dbb35b589b440e2df559c0cafdf4c55b"
   },
   {
+    "id": "881e02c9-d8d4-4b05-8ee5-4dcf3f476c8d",
+    "term": "panacea",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A remedy believed to cure all disease and prolong life that was originally sought by alchemists; a cure-all."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "Something that will solve all problems."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "The plant allheal (Valeriana officinalis), believed to cure all ills."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T13:17:40.686Z",
+    "_id": "881e02c9-d8d4-4b05-8ee5-4dcf3f476c8d",
+    "_rev": "1-456fc0dafd9613c8ba70a41557580870"
+  },
+  {
     "id": "8df17d1a-18bb-465b-a2d6-3a23dad184ec",
     "term": "verbiage",
     "definitions": [
@@ -166,6 +678,87 @@
     "dateAdded": "2024-08-20T09:39:25.204Z",
     "_id": "8df17d1a-18bb-465b-a2d6-3a23dad184ec",
     "_rev": "1-8889ac5c93b482e332ba6e1fa7712bce"
+  },
+  {
+    "id": "8e4421a3-de9c-49c6-9e04-cbd2d66e4aa6",
+    "term": "MASONRY",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "The art or occupation of a mason."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "The work or performance of a mason"
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "That which is built by a mason; anything constructed of the materials used by masons, such as stone, brick, tiles, or the like. Dry masonry is applied to structures made without mortar."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "The craft, institution, or mysteries of Freemasons; Freemasonry."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T14:14:50.365Z",
+    "_id": "8e4421a3-de9c-49c6-9e04-cbd2d66e4aa6",
+    "_rev": "1-26bdcae3df7b5de0849bf29641d50fe5"
+  },
+  {
+    "id": "91af61c5-26c2-43ce-af1c-8d63e3f8df01",
+    "term": "buoy",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A float moored in water to mark a location, warn of danger, or indicate a navigational channel."
+      },
+      {
+        "partOfSpeech": "noun",
+        "definition": "A life-buoy; a life preserver."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To keep afloat or aloft; used with up."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To support or maintain at a high level."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To mark with a buoy."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To maintain or enhance enthusiasm or confidence; to lift the spirits of."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T11:00:42.528Z",
+    "_id": "91af61c5-26c2-43ce-af1c-8d63e3f8df01",
+    "_rev": "1-8943f14a4318bb139c206d951ff0452d"
+  },
+  {
+    "id": "9b4b0249-c4fe-4713-9499-9c6a3fe2282b",
+    "term": "supranational",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "Such a person or organization"
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Beyond the borders or scope of any one nation."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-27T14:17:52.159Z",
+    "_id": "9b4b0249-c4fe-4713-9499-9c6a3fe2282b",
+    "_rev": "1-17b76c217689b699e87fdd07bea04b7a"
   },
   {
     "id": "af6c4d42-6612-453e-b04f-831aaa63eda2",
@@ -218,6 +811,67 @@
     "_rev": "1-4950c683da96c26c9547ae9ec6b47a43"
   },
   {
+    "id": "b0fc7b41-ac64-4c8a-83a0-484ea7f89e8a",
+    "term": "Veer",
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To let out (a sail-line), to allow (a sheet) to run out."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T13:18:10.252Z",
+    "_id": "b0fc7b41-ac64-4c8a-83a0-484ea7f89e8a",
+    "_rev": "1-187d323ab02beecbaa8abd12e36721ee"
+  },
+  {
+    "id": "b6cfd23a-2b5c-4c95-a8d5-c680fcaedfb4",
+    "term": "defeasible",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Capable of being defeated, terminated, annulled, voided or invalidated."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-27T14:19:22.177Z",
+    "_id": "b6cfd23a-2b5c-4c95-a8d5-c680fcaedfb4",
+    "_rev": "1-76fc0cd4720351c342e4606a71c5f58e"
+  },
+  {
+    "id": "bc5654d3-d672-4da2-b0ba-e3360b7ef97f",
+    "term": "dissipate",
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To drive away, disperse."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To use up or waste; squander."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To vanish by dispersion."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To cause energy to be lost through its conversion to heat."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To be dissolute in conduct."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T10:10:24.741Z",
+    "_id": "bc5654d3-d672-4da2-b0ba-e3360b7ef97f",
+    "_rev": "1-533cf8b5e95adf46cd051fae89464ace"
+  },
+  {
     "id": "be7e9b5a-c642-4ee2-a580-84896c7b1873",
     "term": "diocese",
     "definitions": [
@@ -235,6 +889,60 @@
     "dateAdded": "2024-08-20T09:39:25.131Z",
     "_id": "be7e9b5a-c642-4ee2-a580-84896c7b1873",
     "_rev": "1-387ee53d7c9d64174f5ae8cb8f5ae754"
+  },
+  {
+    "id": "ce73739d-6813-4400-b2b9-7d7de4f64a54",
+    "term": "peruse",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "An examination or perusal; an instance of perusing."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To examine or consider with care."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To read completely."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To look over casually; to skim."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To go from place to place; to wander."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T11:35:20.455Z",
+    "_id": "ce73739d-6813-4400-b2b9-7d7de4f64a54",
+    "_rev": "1-9c0cf3ca1eb87033b9ac3a5ce5ee4637"
+  },
+  {
+    "id": "d89bbe2b-cd17-4b65-bd10-2661d5dc6057",
+    "term": "priapic",
+    "definitions": [
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Phallic."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Related to or overly concerned with male sexual activity or exhibiting excessive male sexual activity."
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definition": "Excessively masculine; excessively concerned with masculinity."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T13:52:38.109Z",
+    "_id": "d89bbe2b-cd17-4b65-bd10-2661d5dc6057",
+    "_rev": "1-cbf4cee8ac1f8bd35e57710b7f226ab5"
   },
   {
     "id": "d9c77c0d-3e4f-4505-b9d0-31a3ab772a90",
@@ -262,6 +970,78 @@
     "dateAdded": "2024-08-20T09:39:25.197Z",
     "_id": "d9c77c0d-3e4f-4505-b9d0-31a3ab772a90",
     "_rev": "1-4c629f75804f82f5bda91579d5cb8606"
+  },
+  {
+    "id": "ead0cb7c-2963-495a-8e13-94a03d681093",
+    "term": "acquiesce",
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "(with in (or sometimes with, to)) To rest satisfied, or apparently satisfied, or to rest without opposition and discontent (usually implying previous opposition or discontent); to accept or consent by silence or by omitting to object."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To concur upon conviction; as, to acquiesce in an opinion; to assent to; usually, to concur, not heartily but so far as to forbear opposition."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T11:34:03.092Z",
+    "_id": "ead0cb7c-2963-495a-8e13-94a03d681093",
+    "_rev": "1-0a1de310d6609ca65b6769321704c375"
+  },
+  {
+    "id": "ebedfb4f-fc19-4cd1-bf65-3e32c863372d",
+    "term": "hessian",
+    "definitions": [
+      {
+        "partOfSpeech": "noun",
+        "definition": "A strong, coarse fabric made from hemp or jute, often used for making sacks."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-20T16:08:45.217Z",
+    "_id": "ebedfb4f-fc19-4cd1-bf65-3e32c863372d",
+    "_rev": "1-5fc4f2e7da9fe2f9d8a80c4d08c9c962"
+  },
+  {
+    "id": "f684a69e-c29b-4635-88e1-6b1e01e3331a",
+    "term": "entomb",
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To deposit in a tomb."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To confine in restrictive surroundings."
+      }
+    ],
+    "categories": [],
+    "bucket": [],
+    "dateAdded": "2024-08-20T10:02:24.861Z",
+    "_id": "f684a69e-c29b-4635-88e1-6b1e01e3331a",
+    "_rev": "1-71150a98e16d4b15e5152297b08fd3a0"
+  },
+  {
+    "id": "fdf1104e-08f4-4086-8258-0a03b1ec3edd",
+    "term": "vivify",
+    "definitions": [
+      {
+        "partOfSpeech": "verb",
+        "definition": "To bring to life; to enliven."
+      },
+      {
+        "partOfSpeech": "verb",
+        "definition": "To impart vitality."
+      }
+    ],
+    "categories": [],
+    "bucket": "General",
+    "dateAdded": "2024-08-27T14:18:22.159Z",
+    "_id": "fdf1104e-08f4-4086-8258-0a03b1ec3edd",
+    "_rev": "1-341539c2dd4527d3f446f159f86aa35c"
   },
   {
     "id": "feac5328-308a-447b-805c-a8e92307b7f9",

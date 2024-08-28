@@ -10,9 +10,9 @@ html {
 }
 
 body {
-    background: #7fcab6;
+    background: #e0f7fa;
     font-size: 62.5%;
-    font-family: 'Open Sans', Arial, Helvetica, Sans-serif;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,21 +23,56 @@ body {
 
 .container {
     text-align: center;
-    width: 80%;
+    width: 90%;
     max-width: 600px;
     margin: auto;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 .title {
-    color: #FFF;
+    color: #00796b;
     font-size: 3.2em;
-    font-weight: 400;
+    font-weight: 500;
     margin-bottom: 20px;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    text-shadow: 0 1px 2px rgba(0,0,0,0.2);
 }
 
 .form-container {
     margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 15px;
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid #b2dfdb;
+    border-radius: 5px;
+    font-size: 1.4em;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+select, button {
+    padding: 12px;
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid #b2dfdb;
+    border-radius: 5px;
+    font-size: 1.4em;
+    cursor: pointer;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #00796b;
+    color: #ffffff;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #004d40;
 }
 
 /* Menu Tabs */
@@ -49,14 +84,14 @@ body {
 .menu__tabs li {
     float: left;
     margin-right: 2px;
-    font-size: 1.3em;
+    font-size: 1.4em;
 }
 
 .menu__tabs a {
-    padding: 1em;
-    background: #333b48;
+    padding: 1.2em;
+    background: #00796b;
     display: inline-block;
-    color: #FFF;
+    color: #ffffff;
     text-decoration: none;
     border-radius: 4px 4px 0 0;
     transition: all 0.3s ease;
@@ -64,17 +99,17 @@ body {
 }
 
 .menu__tabs a:hover {
-    background: #515a68;
+    background: #004d40;
 }
 
 .menu__tabs a.active {
-    color: #333b48;
-    background: #FFF;
+    color: #00796b;
+    background: #ffffff;
     box-shadow: none;
 }
 
 .menu__tabs a.active i {
-    color: #80cbb7;
+    color: #004d40;
 }
 
 .menu__tabs a i {
@@ -93,9 +128,10 @@ body {
     padding: 2em;
     position: relative;
     z-index: 400;
-    background: #FFF;
+    background: #ffffff;
     min-height: 300px;
     border-radius: 0 4px 4px 4px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .menu--shadow {
@@ -128,7 +164,7 @@ body {
 
 .menu__wrapper .menu__item {
     line-height: 1.3;
-    color: #76716f;
+    color: #616161;
     display: none;
 }
 
@@ -136,9 +172,10 @@ body {
     display: block;
 }
 
-.menu__wrapper .menu__item h3 {
+.menu__wrapper .menu__item h3,
+.menu__wrapper .menu__item h4 {
     font-size: 1.8em;
-    color: #333b48;
+    color: #00796b;
     border-bottom: 1px solid #d9d9d9;
     padding-bottom: 5px;
     margin-bottom: 12px;
@@ -147,37 +184,7 @@ body {
 .menu__wrapper .menu__item p {
     font-size: 1.3em;
     line-height: 1.6em;
-    color: #76716f;
-}
-
-/* Form Styles */
-input[type="text"] {
-    padding: 10px;
-    width: 80%;
-    margin-right: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-select {
-    padding: 10px;
-    margin-right: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    height: 40px; /* Match the height of the text field */
-}
-
-button {
-    padding: 10px 20px;
-    background-color: #4b2e02;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #664d03;
+    color: #616161;
 }
 
 /* Word List */
@@ -191,50 +198,48 @@ button:hover {
 }
 
 .word-list li {
-    background-color: #fff;
+    background-color: #ffffff;
     margin-bottom: 5px;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Definitions Menu */
-.word-definition-list {
-    text-align: left;
-    margin-top: 20px;
-}
-
-.word-definition-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-}
-
-.word-definition-table th, 
-.word-definition-table td {
-    padding: 10px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-}
-
-.word-definition-table th {
-    background-color: #4b2e02; /* Use the same color for all headers */
-    color: #fff;
-    position: sticky;
-    top: 0;
-}
-
-/* Table Scroll */
+/* Definitions and Sentences Menu */
 .table-container {
     max-height: 350px; /* Adjust the height as needed */
     overflow-y: auto;
     border: 1px solid #ddd; /* Optional: Add a border for better visibility */
 }
 
-.word-definition-table tr:not(:last-child) td {
-    padding-bottom: 20px; /* Space between definitions */
+.word-definition-table, 
+.word-sentence-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
 }
 
-.word-definition-table tr:hover {
+.word-definition-table th, 
+.word-definition-table td,
+.word-sentence-table th, 
+.word-sentence-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.word-definition-table th, 
+.word-sentence-table th {
+    background-color: #00796b; /* Use the same color for all headers */
+    color: #ffffff;
+    position: sticky;
+    top: 0;
+}
+
+.word-sentence-table tr:not(:last-child) td {
+    padding-bottom: 20px; /* Space between sentences */
+}
+
+.word-sentence-table tr:hover {
     background-color: #f5f5f5;
 }

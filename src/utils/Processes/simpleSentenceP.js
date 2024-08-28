@@ -25,4 +25,6 @@ export function startSentenceGenerator() {
         
         console.log('Sentence generator process started');
 }
+
+startSentenceGenerator();
     

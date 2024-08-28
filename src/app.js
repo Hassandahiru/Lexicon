@@ -4,6 +4,8 @@ import { homeRouter } from './routers/homeRouter.js';
 import { db } from './database/localHost.js';
 import  dotenv  from 'dotenv';
 import { startSentenceGenerator } from './utils/Processes/simpleSentenceP.js';
+import { readFile } from 'fs/promises'; 
+
 
 // Assuming .env is in the parent directory
 const __dirname = resolve();
@@ -34,6 +36,5 @@ expressApp.use('/home', homeRouter);
 
 expressApp.listen(port, () => {
     console.log(`Server listening at http://localhost:${port}`);
-    startSentenceGenerator()
 
 });

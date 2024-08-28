@@ -1,21 +1,54 @@
 [
   {
-    "term": "metier",
+    "term": "boisterous",
     "generatedSentence": {
       "parts": [
         {
-          "text": "Despite years of training, she still felt like an amateur in the metier of international diplomacy. \n"
+          "text": "The children's boisterous laughter echoed through the park as they played tag. \n"
         }
       ],
       "role": "model"
     }
   },
   {
-    "term": "lyre",
+    "term": "metier",
     "generatedSentence": {
       "parts": [
         {
-          "text": "The bard strummed a mournful melody on his ancient lyre, its strings echoing the sorrow of the fallen king. \n"
+          "text": "Her metier was writing captivating stories that transported readers to other worlds. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent glow of the city lights painted a mesmerizing scene across the night sky. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The judge ruled that the contract was **defeasible** due to the unforeseen circumstances that had significantly altered the original terms. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "couth",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his wealth, he was surprisingly couth, always treating everyone with respect and kindness. \n"
         }
       ],
       "role": "model"
@@ -26,15 +59,165 @@
     "generatedSentence": ""
   },
   {
-    "term": "admonish",
-    "generatedSentence": ""
+    "term": "aegis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient city, once protected by the aegis of its powerful gods, now lay vulnerable to the invaders. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diocese",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bishop announced that the diocese would be holding a special prayer service for the victims of the recent disaster. \n"
+        }
+      ],
+      "role": "model"
+    }
   },
   {
     "term": "assiduously",
     "generatedSentence": {
       "parts": [
         {
-          "text": "The artist assiduously worked on her masterpiece, meticulously blending colors and shaping details for hours on end. \n"
+          "text": "The team assiduously researched the problem, leaving no stone unturned in their quest for a solution. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bulldog's massive jowls flopped around as he lumbered through the park. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The boisterous laughter of the children echoed through the park, a joyful sound that filled the air. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "aegis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Under the aegis of the ancient treaty, the two nations maintained a fragile peace. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "neophyte",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "As a neophyte in the world of coding, she found the complex syntax intimidating at first. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his obvious talent, the young artist was uncomfortable with the fawning attention he received from the critics. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "insipid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so insipid that I found myself checking my phone every few minutes. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old sailor leaned against the gunwale, watching the waves lap gently against the hull of his weathered boat. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the overwhelming evidence of the world's imperfections, he maintained a stubbornly Panglossian optimism. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Veer",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The seasoned sailor, known for his unwavering courage, decided to veer the ship away from the dangerous storm. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The peace treaty was built on a tenuous foundation of trust, which could easily crumble if either side felt betrayed. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Her **metier** was not in the boardroom, but on the stage, captivating audiences with her vibrant performance. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "After years of honing her skills, she finally found her metier in the bustling world of fashion design. \n"
         }
       ],
       "role": "model"
@@ -45,7 +228,239 @@
     "generatedSentence": {
       "parts": [
         {
-          "text": "Despite the storm raging outside, her **mien** remained calm and collected, inspiring confidence in those around her. \n"
+          "text": "Despite the chaos around him, the general maintained a calm and authoritative mien. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "neophyte",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "As a neophyte in the world of coding, she found herself overwhelmed by the complex syntax and intricate algorithms. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "banality",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the grandeur of the setting, the speech was marred by the banality of its content, leaving the audience disappointed. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lascivious",
+    "generatedSentence": ""
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's immersive diegesis, where every sound and image contributed to the story's world, made the audience feel like they were truly present in the bustling marketplace. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent strain of the virus quickly spread through the community, causing widespread illness. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tumult",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The news of the king's death caused a **tumult** in the capital, with citizens both celebrating and mourning in the streets. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "acquiesce",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite her initial reluctance, she eventually acquiesced to her parents' wishes and agreed to go to college. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The peace treaty between the two nations rested on a tenuous foundation of mutual distrust and fragile agreements. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The unexpected snowstorm stymied our travel plans, forcing us to postpone our trip. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "priapic",
+    "generatedSentence": ""
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The reality show offered nothing but vapid entertainment, filled with shallow drama and empty promises. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "portentous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The gathering storm clouds, dark and heavy, cast a portentous shadow over the village, foreshadowing the coming deluge. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "faffing",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "I'm sorry, but \"faffing\" is not a recognized word in standard English. It's likely a slang term or regional dialect word.  \n\nCould you provide more context or clarify what you're trying to convey? Perhaps you're thinking of a similar word like \"fussing\" or \"fiddling\"? \n\nOnce you give me more information, I can help you create a sentence! \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The scholar spent years meticulously researching ancient Greek treatises on philosophy, hoping to uncover new insights into the nature of reality. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique tapestry, woven with intricate patterns on a coarse hessian fabric, hung proudly in the grand hall. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The peace treaty between the warring factions rested on a tenuous foundation of trust, easily shattered by any miscommunication. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "supranational",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The **supranational** organization, tasked with promoting global trade, faced resistance from certain member states who prioritized national interests. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": ""
+  },
+  {
+    "term": "insipid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so **insipid** that I found myself constantly checking my watch. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "couth",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his wealth and position, the Duke was surprisingly couth, treating everyone with respect and kindness. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "After years of honing her skills, she finally felt confident in her metier as a glassblower. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The weathered fisherman leaned against the **gunwale**, his eyes scanning the choppy water for signs of a catch. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent strain of the flu quickly spread through the school, causing widespread illness. \n"
         }
       ],
       "role": "model"
@@ -63,15 +478,433 @@
     }
   },
   {
-    "term": "lascivious",
-    "generatedSentence": ""
-  },
-  {
-    "term": "neophyte",
+    "term": "incandescent",
     "generatedSentence": {
       "parts": [
         {
-          "text": "The neophyte nervously navigated the complex controls of the spaceship, relying heavily on the experienced pilot's guidance. \n"
+          "text": "The incandescent light bulb, once a ubiquitous household fixture, is now largely replaced by more energy-efficient options. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "dissipate",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The morning mist slowly dissipated as the sun rose, revealing the vibrant landscape below. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "weal",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The wise ruler sought to ensure the weal of their people, fostering a prosperous and peaceful society. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "verbiage",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The contract was filled with legalese and unnecessary verbiage, making it difficult to understand the core agreements. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "buoy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The brightly colored buoy bobbed gently on the waves, marking the safe channel for boaters. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair needed to be **upholstered** in a rich velvet fabric to match the rest of the room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Her metier was crafting intricate jewelry, each piece a miniature masterpiece. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "acquiesce",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his initial reservations, he eventually acquiesced to the demands of the majority. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The gardener used a hessian sack to protect the delicate seedlings from frost. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "verbiage",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The legal document was filled with dense verbiage that even a seasoned lawyer struggled to decipher. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "insipid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so insipid, I found myself checking my phone every five minutes. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old bulldog's jowls jiggled with each contented sigh as he napped in the sun. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The peace agreement was tenuous at best, held together by fragile threads of hope and a desperate desire to avoid further conflict. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The team assiduously researched the project, leaving no stone unturned in their pursuit of a successful outcome. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite her initial reluctance, she soon discovered her true metier lay in the vibrant world of street art. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chest, crafted from sturdy Hessian, held secrets whispered through generations. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent light from the streetlamp cast long, dancing shadows on the cobblestone street. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient bard strummed his lyre, weaving a tale of love and loss through his melodious song. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tumult",
+    "generatedSentence": ""
+  },
+  {
+    "term": "verbiage",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the professor's dense verbiage, the students understood the core concepts of the lecture. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's dialogue was so vapid that I found myself checking my phone every five minutes. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "entomb",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient Pharaoh was entombed in a magnificent pyramid, adorned with treasures and hieroglyphs. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "amalgam",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's latest work was an intriguing amalgam of traditional techniques and modern materials. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "nowise",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his best efforts, he was nowise able to convince her to change her mind. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tumult",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The political rally was filled with a tumult of voices, banners, and emotions. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diocese",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bishop of the diocese announced a new initiative to support local schools. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite facing seemingly insurmountable challenges, her Panglossian outlook allowed her to remain optimistic and hopeful. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Veer",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The young sailor **veered** sharply to avoid the approaching storm. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "MASONRY",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient Roman aqueduct stood as a testament to the enduring strength of their **masonry**. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's **diegesis** was carefully constructed, with every sound and image contributing to the world the characters inhabited. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Though she excelled in many fields, her true metier was crafting intricate jewelry, her hands moving with effortless precision. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "foist",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The salesman tried to **foist** a broken washing machine on the unsuspecting customer. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bard strummed a haunting melody on his ancient lyre, its strings echoing through the cavernous hall. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The boisterous laughter of the children echoed through the park as they chased each other around the playground. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The archaeologist carefully brushed away the dust from the ancient **hessian** sack, revealing a treasure trove of artifacts. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "nowise",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The argument, while passionate, was nowise convincing, and the committee ultimately voted against the proposal. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent glow of the city lights painted the night sky with a warm, inviting hue. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Her **metier** was not in the boardroom, but in the bustling kitchen, where she wielded her culinary skills with artistry. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The flickering candlelight cast intermittently dancing shadows on the wall. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the bleak circumstances, her Panglossian optimism convinced everyone that things would eventually turn around. \n"
         }
       ],
       "role": "model"
@@ -82,7 +915,4541 @@
     "generatedSentence": {
       "parts": [
         {
-          "text": "The professor's extensive research was compiled into a series of scholarly treatises on the history of ancient civilizations. \n"
+          "text": "The scholar's extensive research culminated in a series of detailed treatises on the history of ancient civilizations. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "dissipate",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The morning fog slowly dissipated as the sun rose higher in the sky. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old, worn **hessian** sack held the farmer's precious seed potatoes, ready for planting in the spring. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tumult",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The news of the king's death caused a tumult in the streets, as people argued and debated the future of the kingdom. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lack of funding for the project completely stymied its progress, leaving the team frustrated and disillusioned. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": ""
+  },
+  {
+    "term": "banality",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The endless stream of celebrity gossip and reality TV shows only served to reinforce the banality of modern culture. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The salty spray from the waves splashed over the **gunwale** of the small fishing boat. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair needed to be **upholstered** with a luxurious velvet fabric to match the rest of the room's decor. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The boisterous laughter of the children filled the park, echoing off the playground equipment. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "panacea",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "While exercise is a great way to improve physical health, it's not a panacea for all ailments. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist assiduously honed her skills, practicing for hours each day to perfect her technique. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Veer",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The young sailor **veered** sharply to avoid the rogue wave, his heart pounding in his chest. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "entomb",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient pharaoh was entombed in a magnificent pyramid, adorned with intricate hieroglyphs. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's diegesis, including the characters' dialogue and the sounds of the bustling city, created a realistic and immersive experience for the audience. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "admonish",
+    "generatedSentence": ""
+  },
+  {
+    "term": "diocese",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bishop of the diocese announced plans to build a new school for the growing community. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "swarthy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The swarthy fisherman, weathered by years of sun and sea, hauled in a net overflowing with silver fish. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "neophyte",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "As a neophyte in the world of coding, she found the complex syntax of the program daunting. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair needed to be **upholstered** with a luxurious velvet fabric to match the rest of the living room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "While her metier was writing fiction, she found herself drawn to the challenge of composing poetry. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "aegis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Under the aegis of the ancient treaty, the two nations pledged to remain neutral in the conflict. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "acquiesce",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite her initial reservations, she eventually acquiesced to her friend's suggestion for a weekend trip to the mountains. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "portentous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The storm clouds gathering on the horizon were a portentous sign of the tempest to come. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "foist",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The company tried to foist their outdated product on unsuspecting consumers by disguising it as a new innovation. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "mien",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the gravity of the situation, the general maintained a calm and resolute mien, inspiring confidence in his troops. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lone wolf, forlornly gazing at the moon, howled a mournful cry into the empty night. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "verbiage",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The legal document was filled with unnecessary verbiage, making it difficult to understand the key points. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "supranational",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The **supranational** organization faced a difficult decision regarding the implementation of new trade regulations. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "meretricious",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite its **meretricious** exterior of gold and glitter, the casino was ultimately a hollow and unsatisfying experience. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The scholar spent years poring over ancient treatises on alchemy, hoping to unlock the secrets of turning lead into gold. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "insipid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bland, tasteless soup was so **insipid** that it left everyone feeling disappointed. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "portentous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The gathering storm clouds, dark and heavy, cast a portentous shadow over the village, hinting at the impending danger. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite her early success in the tech industry, she realized her true metier lay in the creative field, where she could use her artistic talents to make a real impact. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The peace treaty between the warring factions remained tenuous, held together by fragile promises and a shared desire for stability. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "verbiage",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lawyer's closing arguments were filled with legal verbiage that was difficult for the jury to understand. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist assiduously worked on her masterpiece, meticulously blending colors and perfecting every detail. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tumult",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The news of the king's death sparked a tumult of emotions in the city, from grief to anger to uncertainty. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so vapid that I couldn't even remember the characters' names by the end. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique furniture was carefully wrapped in a thick layer of **hessian** before being shipped across the country. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "foist",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The con artist tried to foist a fake Rolex onto the unsuspecting tourist. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "MASONRY",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old church, built with meticulous **masonry**, stood as a testament to the craftsmanship of its builders. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "acquiesce",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite her initial hesitation, she eventually acquiesced to her parents' wishes and enrolled in the university they chose for her. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so vapid and predictable, I couldn't help but yawn throughout the entire screening. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old engine sputtered and coughed, intermittently releasing plumes of black smoke into the air. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diocese",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The Bishop of the diocese announced a new initiative to support local charities. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "While she excelled at many things, her true metier lay in the art of storytelling, captivating audiences with her words. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vivify",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The vibrant colors of the stained glass window seemed to vivify the somber church interior, bringing a touch of life and joy to the space. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's diegesis was meticulously crafted, creating a believable and immersive world for the audience to inhabit. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "amalgam",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's latest work was an intriguing amalgam of traditional techniques and modern materials. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vitiated",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The constant interruptions and distractions vitiated the productivity of the meeting. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the bleak reality of the war-torn country, the old man clung to a Panglossian optimism, believing that everything would eventually work out for the best. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vivify",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The vibrant colors of the sunset seemed to **vivify** the sleepy little town, awakening its spirit. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "neophyte",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The neophyte barista struggled to pull the perfect espresso shot, his hands trembling with a mix of excitement and anxiety. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "cynosure",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The renowned artist, with her vibrant canvases and captivating presence, became the cynosure of the art exhibition. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair, once faded and worn, was completely transformed after the skilled artisan upholstered it in luxurious velvet. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "aegis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient city, once protected by the aegis of a powerful goddess, now lay vulnerable to the invading army. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The rumors spread like a virulent disease, infecting the entire town with suspicion and fear. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "banality",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The repetitive nature of the news cycle, filled with the same scandals and political arguments, was a testament to the banality of modern media. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lone, weathered lighthouse stood forlornly on the windswept cliff, its beam a beacon of hope in the vast, churning sea. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's diegesis was carefully constructed, with every sound and object serving a specific narrative purpose. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "meretricious",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite its **meretricious** exterior of gold leaf and marble, the mansion held a surprisingly somber history. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The gardener used a **hessian** sack to collect the fallen leaves, their vibrant hues contrasting against the rough burlap. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "buoy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The brightly colored buoy bobbed gently on the waves, marking the location of the underwater shipwreck. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The agreement, while seemingly permanent, contained a defeasible clause allowing for termination under certain conditions. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The professor's lecture focused on the complex philosophical treatises that had shaped the history of Western thought. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "nowise",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the promising forecast, the weather was nowise pleasant, with a biting wind and relentless drizzle. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the bleak circumstances, her Panglossian outlook remained unshaken, convinced that everything would eventually work out for the best. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The contract's terms were **defeasible**, meaning they could be revoked under certain circumstances. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "cynosure",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The renowned scientist, known for her groundbreaking discoveries, became the cynosure of the scientific community, attracting both admiration and criticism. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "meretricious",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite its **meretricious** exterior, the antique shop held treasures of genuine beauty and historical significance. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "couth",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Though known for his boisterous nature, he surprised everyone with a surprisingly **couth** and eloquent speech at the awards ceremony. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "weal",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The king's decision, while controversial, was ultimately made for the weal of the kingdom. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The celebrity was surrounded by a group of fawning fans eager for autographs and selfies. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "supranational",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The European Union is a **supranational** organization that aims to promote cooperation and integration among its member states. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "wiseacre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old wiseacre chuckled at the young man's naive plans, shaking his head and muttering about the \"wisdom of experience.\" \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The fisherman leaned against the gunwale, watching the bobber dip and rise with the waves. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "cynosure",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The captivating performance of the renowned violinist made him the cynosure of all eyes in the concert hall. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vastitude",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The vastness of the desert, its sheer vastitude, dwarfed even the largest of sand dunes. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "admonish",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The teacher admonished the students for talking during the test, reminding them of the importance of focus and respect for the exam. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "neophyte",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "As a neophyte in the world of coding, she found the sheer volume of information daunting but also incredibly exciting. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old car sputtered and coughed intermittently, threatening to stall completely at any moment. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent strain of the virus spread rapidly through the community, causing widespread illness. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent light bulb cast a warm, golden glow on the old bookstore, illuminating the dusty shelves and leather-bound volumes. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The paparazzi fawned over the celebrity, shoving microphones and cameras in her face. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "foist",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his best efforts, the salesman couldn't **foist** his overpriced trinkets on the wary customer. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "swarthy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The swarthy sailor, tanned from years at sea, stood out against the pale crowd of tourists. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "aegis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Under the aegis of the ancient oak, the village held its annual harvest festival. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "verbiage",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The legal document was filled with dense verbiage that even seasoned lawyers struggled to decipher. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vivify",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's vibrant colors and bold brushstrokes vivified the otherwise drab and lifeless landscape. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "insipid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so **insipid** that I found myself checking my phone every five minutes. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "faffing",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "I was faffing around in the kitchen, trying to find the right spice for the curry, when I accidentally knocked over the entire spice rack. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vastitude",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The vastitude of the desert landscape humbled her, making her feel both small and strangely connected to something ancient and immense. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The reality show offered nothing but vapid entertainment, filled with shallow drama and manufactured conflict. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The unexpected power outage completely stymied our efforts to finish the presentation before the deadline. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "swarthy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The swarthy fisherman, weathered by years of sun and salt, pulled his net in with practiced ease. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "obloquy",
+    "generatedSentence": ""
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair needed to be reupholstered in a luxurious velvet fabric to match the rest of the room's decor. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old bulldog's jowls wobbled with every happy bark. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "insipid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so insipid that I found myself checking my phone every few minutes. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vastitude",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The vastness of the desert, with its endless dunes and shimmering mirages, evoked a sense of awe and wonder at the vastitude of nature. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent light bulb cast a warm, inviting glow on the cozy living room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "mien",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the storm raging outside, she entered the room with a calm and confident mien, instantly calming the anxious crowd. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bard strummed his lyre, filling the tavern with a melancholic melody. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": ""
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient bard strummed his lyre, filling the hall with melancholic melodies. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The detective assiduously searched the crime scene for any trace of evidence, meticulously examining every inch of the room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old bulldog's jowls jiggled with every happy bark. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "acquiesce",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite her reservations, she chose to acquiesce to her parents' wishes and attend the prestigious university. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent light bulb cast a warm, inviting glow across the room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "neophyte",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The neophyte programmer struggled to understand the complex code, seeking guidance from his experienced mentor. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lack of funding completely stymied the research team's progress on the groundbreaking project. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "MASONRY",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient **masonry** of the Roman aqueduct still stands strong after centuries, a testament to its masterful construction. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tumult",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The news of the king's death sparked a tumult in the streets, with crowds gathering to both mourn and celebrate. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The boisterous laughter of the children echoed through the park as they chased each other around the playground. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "meretricious",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the **meretricious** glitter and glamour of the casino, he couldn't shake the feeling that something was fundamentally hollow about the entire experience. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "verbiage",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the lawyer's lengthy verbiage, the jury was ultimately persuaded by the simplicity of the witness's testimony. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The team assiduously researched the project, leaving no stone unturned in their pursuit of a comprehensive understanding. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The reality show was filled with vapid drama and shallow conversations, leaving me utterly uninspired. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The director's decision to include the ticking of a clock in the diegesis added a palpable sense of urgency to the scene. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "obloquy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the public **obloquy** surrounding his controversial actions, the politician remained defiant, refusing to apologize or resign. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old bulldog's jowls jiggled with each happy snort. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The contract's terms were deemed **defeasible** after the unexpected market downturn, rendering them void. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's diegesis was disrupted by the sudden appearance of the talking cat, shattering the illusion of reality. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "faffing",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "I spent the entire morning faffing around, trying to decide what to wear for the interview. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bard strummed his **lyre**, filling the tavern with a melancholic melody that spoke of lost love and forgotten dreams. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "couth",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his humble beginnings, the young man possessed a surprising air of couth, making him a welcome addition to any social gathering. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "panacea",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "While exercise is beneficial, it is not a panacea for all health problems. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent rumors spread quickly through the town, causing unnecessary fear and mistrust. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The scholar spent years researching ancient philosophical treatises, seeking to understand the origins of human thought. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vitiated",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The constant stream of negativity from the news cycle vitiated the otherwise joyful atmosphere of the family gathering. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "mien",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the tense situation, the ambassador maintained a calm and composed mien, reassuring the diplomats present. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "faffing",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "I spent the entire morning faffing around with my luggage, trying to pack everything efficiently. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old sailor leaned against the gunwale, watching the waves crash against the hull of his weathered sailboat. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "nowise",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite her best efforts, she was nowise able to convince him to change his mind. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "peruse",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The detective meticulously perused the crime scene, searching for any clue that could lead them to the perpetrator. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The peace agreement between the warring factions was tenuous, held together by a thread of mutual exhaustion rather than genuine trust. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "foist",
+    "generatedSentence": ""
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The children's laughter filled the park with a boisterous, joyous energy. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lack of funding completely stymied the research team's progress on the groundbreaking project. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent glow of the city lights painted the night sky in a mesmerizing array of colors. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "verbiage",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the lawyer's lengthy and complex verbiage, the jury still struggled to understand the legal arguments. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair was reupholstered in a luxurious, deep brown Hessian fabric. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diocese",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bishop of the diocese announced a new initiative to support struggling families. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old bulldog's jowls wobbled as he happily lapped up the water from his bowl. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "banality",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The banality of their everyday conversations was punctuated only by the occasional burst of excitement about the upcoming holiday. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "dissipate",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The morning fog began to dissipate as the sun rose higher in the sky. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The flickering candlelight cast intermittently shifting shadows on the wall. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "obloquy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the public's initial **obloquy**, the artist's controversial work eventually gained widespread acclaim. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vivify",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The vibrant colors of the sunset vivified the otherwise dull landscape. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The young actor's fawning admiration for the director was so obvious, it made everyone else uncomfortable. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's immersive diegesis drew the audience into the protagonist's world, blurring the lines between reality and fiction. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "amalgam",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The museum's collection was a fascinating amalgam of ancient artifacts and modern art, showcasing the evolution of human creativity. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "admonish",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The teacher admonished the students for talking during the test, reminding them of the importance of focus and respect for the rules. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent light bulb cast a warm, golden glow across the room, creating a cozy atmosphere. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Her metier was not only writing, but also the ability to weave words into a tapestry of emotions that resonated with readers. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bard plucked at the strings of his ancient lyre, filling the tavern with a haunting melody. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "dissipate",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The warm sunlight slowly dissipated the morning fog, revealing a breathtaking vista of the valley below. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "panacea",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "While exercise and a healthy diet are beneficial, they are not a panacea for all health problems. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Veer",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The young sailor, with a heart full of courage, **veered** the ship away from the treacherous reef. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "banality",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The constant stream of news about celebrity gossip felt like an endless cycle of banality. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique armchair, once faded and worn, was beautifully **upholstered** in a rich velvet fabric. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "admonish",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The teacher admonished the students for talking during the test, reminding them of the importance of focus and integrity. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "wiseacre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old wiseacre chuckled, his eyes twinkling as he offered a piece of sage advice about the folly of youth. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "While some consider accounting a dry profession, for her, it was her metier, a source of intellectual stimulation and satisfaction. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The scholar's library overflowed with ancient treatises on philosophy, each one a testament to the enduring power of human thought. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent strain of bacteria quickly spread through the hospital, causing a serious outbreak. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "acquiesce",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite her initial reservations, Sarah eventually acquiesced to her friend's suggestion to go camping. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "verbiage",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the impressive verbiage in the marketing materials, the product itself was disappointingly basic. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The contract's terms were **defeasible** under certain conditions, meaning they could be revoked if those conditions were met. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent strain of the virus spread rapidly through the community, causing widespread illness. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diocese",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bishop of the diocese announced a new initiative to support local charities. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lone figure stood forlornly at the edge of the cliff, gazing out at the vast, empty ocean. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old car sputtered and coughed, running intermittently until it finally sputtered to a complete stop. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The boisterous laughter of the children echoed through the park, a joyful sound that filled the air. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "peruse",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Before making a decision, I like to peruse all the available options carefully. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist assiduously worked on the intricate details of the painting, ensuring every brushstroke was perfect. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The library's collection of ancient Greek treatises on philosophy was a treasure trove for scholars. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the looming economic recession, her Panglossian optimism convinced her that everything would work out in the end. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Her **metier** was crafting intricate, lifelike sculptures from discarded metal scraps. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The complex bureaucratic process completely stymied their efforts to get the project approved. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diocese",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bishop traveled throughout his diocese, visiting each parish and offering guidance to its members. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "acquiesce",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite her initial reluctance, she eventually acquiesced to her father's request and agreed to attend the family reunion. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old, **hessian** sack was filled with dried herbs, their scent wafting through the air. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "panacea",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "While technology offers many advancements, it is not a panacea for all societal ills. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "peruse",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "After a long day, she settled into her favorite armchair with a cup of tea and began to peruse the latest issue of her favorite magazine. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The rain fell intermittently, making the drive home a bit of a challenge. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "obloquy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the public's initial **obloquy**, the artist's controversial work eventually gained widespread acclaim. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "meretricious",
+    "generatedSentence": ""
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The peace treaty between the two nations remained tenuous, a fragile truce built on shifting sands. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "weal",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The king's actions, though motivated by the desire for his own weal, ultimately led to the downfall of the kingdom. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The crowd of fans fawned over the celebrity, their eyes gleaming with admiration. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "MASONRY",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient temple's intricate **masonry** hinted at the skill and dedication of its builders. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "faffing",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "I'm tired of faffing around with this broken printer, I just want to print my report! \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent glow of the city lights painted the night sky in a breathtaking spectacle. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "peruse",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The detective meticulously perused the evidence, hoping to find a clue that would crack the case. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite their best efforts, the team's hold on first place remained tenuous, a single loss threatening to send them tumbling down the standings. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The contract's terms were **defeasible**, meaning they could be revoked under certain circumstances. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so vapid, it left me feeling completely uninspired and bored. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "amalgam",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's latest work was a fascinating amalgam of traditional techniques and modern materials. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Though initially drawn to the arts, she found her true metier in the field of environmental science. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "portentous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The dark clouds gathering on the horizon, coupled with the eerie silence of the forest, created a portentous atmosphere that chilled everyone to the bone. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bard strummed his lyre, filling the air with mournful melodies that echoed the sorrow of the lost king. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "insipid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bland, flavorless soup was so insipid, it left me craving anything with even the slightest hint of taste. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent light from the streetlamps cast long, dancing shadows on the cobblestone streets. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lone figure stood forlornly at the edge of the cliff, watching the sun disappear below the horizon. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vastitude",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The **vastitude** of the desert stretched before them, a sea of sand and silence. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "meretricious",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite its **meretricious** exterior, the antique shop held a surprising collection of genuine treasures. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "admonish",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The teacher admonished the students for talking during the test, reminding them of the importance of focus and integrity. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "buoy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bright orange buoy bobbed gently on the waves, marking the safe channel for boaters. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The paparazzi fawned over the celebrity, snapping photos and shouting compliments. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "amalgam",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's latest work was an intriguing amalgam of traditional techniques and modern materials. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vivify",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The vibrant colors of the sunset vivified the otherwise dull cityscape. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "entomb",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient artifacts were entombed in the pyramid, waiting to be discovered centuries later. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The salty spray from the crashing waves splashed over the **gunwale** of the small fishing boat. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "foist",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The salesperson tried to **foist** a faulty product on the unsuspecting customer. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vivify",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's vibrant colors and bold brushstrokes vivified the otherwise dull and lifeless landscape. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's diegesis was carefully crafted to immerse the audience in the protagonist's world, even using sounds from the environment to heighten the sense of realism. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old clock on the mantle ticked intermittently, its rhythmic sound a comforting presence in the quiet room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The scholar spent years poring over ancient treatises on astronomy, hoping to uncover a lost theory of planetary motion. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The children's boisterous laughter echoed through the park, a joyful sound that filled the air. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The little dog sat forlornly by the empty food bowl, its tail drooping with dejection. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The peace treaty between the two warring factions rested on a tenuous foundation of trust, easily shattered by any misstep. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The complex regulations completely stymied the company's plans to expand into the new market. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Veer",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The young sailor, filled with a sense of adventure, **veered** off course, charting his own path across the vast ocean. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "banality",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The endless stream of celebrity gossip and reality TV shows only reinforced the banality of modern entertainment. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "couth",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his wealth and privilege, he lacked the **couth** to navigate the social circles he so desperately desired to join. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The team assiduously researched the complex problem, leaving no stone unturned in their quest for a solution. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old car sputtered and coughed, moving intermittently down the dusty road. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "nowise",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the seemingly insurmountable obstacles, they were nowise deterred from pursuing their dream. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "obloquy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the public's initial **obloquy**, the scientist's groundbreaking research eventually earned him widespread acclaim. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The contract's terms were **defeasible**, meaning they could be revoked under certain circumstances. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bard's fingers danced across the strings of his lyre, weaving tales of love and loss with each melodic note. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "acquiesce",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his reservations, he ultimately decided to acquiesce to the majority's decision. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The boisterous laughter of the children playing in the park echoed through the quiet neighborhood. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old streetlamp cast an **incandescent** glow, illuminating the cobblestone street below. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Veer",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The young sailor had to **veer** the ship sharply to avoid the approaching storm. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vastitude",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The vastness of the ocean, its sheer vastitude, filled her with a sense of awe and wonder. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The team's progress was **stymied** by a sudden lack of funding. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "weal",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The wise king ruled with the utmost concern for the weal of his people, striving to ensure their prosperity and happiness. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old bulldog's jowls wobbled with every snort as he chased after his squeaky toy. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The reality show was filled with vapid dialogue and shallow characters, leaving viewers yearning for something with substance. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "panacea",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "While exercise is beneficial for overall health, it's not a panacea for all ailments. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The rain fell intermittently, providing brief moments of respite from the oppressive heat. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist assiduously refined her painting, meticulously blending colors and adding subtle details until it reached perfection. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "portentous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The gathering storm clouds cast a portentous shadow over the village, hinting at the impending disaster. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old bulldog's jowls jiggled with each happy bark. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The reporters were fawning over the celebrity, showering her with praise and ignoring her less-than-stellar performance. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "buoy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The colorful buoy bobbed gently on the waves, marking the location of the hidden treasure. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "supranational",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The **supranational** organization faced challenges in harmonizing the diverse policies of its member states. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair was in dire need of a professional to upholster it with luxurious velvet. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "While he excelled at many things, his true metier was storytelling, weaving tales that captivated audiences of all ages. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "meretricious",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The **meretricious** charm of the casino's neon lights couldn't disguise the desperate gambling happening inside. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lone figure stood forlornly at the edge of the deserted beach, watching the waves crash against the shore. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "banality",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the grandeur of the setting, the speech was marred by the banality of its message, leaving the audience uninspired. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "portentous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The gathering storm clouds, dark and ominous, cast a portentous shadow over the peaceful village. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The seasoned sailor leaned against the **gunwale**, gazing out at the horizon. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so vapid that I couldn't help but doze off during the second act. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "buoy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bright red buoy bobbed gently in the choppy waters, marking the location of the hidden reef. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diocese",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The new bishop of the diocese addressed the congregation with a message of hope and unity. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair, covered in a rich, brown hessian fabric, sat proudly in the corner of the library. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old clock ticked intermittently, its rhythm a comforting counterpoint to the silence of the empty room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lone figure stood forlornly at the edge of the cliff, watching the setting sun paint the sky in shades of orange and purple. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "admonish",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The teacher admonished the students for talking during the exam. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bard strummed a haunting melody on his ancient lyre, its silver strings echoing through the cavern. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The sudden power outage completely stymied our attempts to finish the presentation on time. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent strain of the virus spread rapidly, overwhelming the hospital's resources. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "wiseacre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old wiseacre, despite his gruff exterior, offered surprisingly insightful advice about navigating the treacherous market. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The scholar spent years researching ancient Greek treatises on philosophy, hoping to find a new perspective on the nature of reality. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "nowise",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The plan, though seemingly sound, was nowise foolproof, as unforeseen circumstances could easily disrupt its execution. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old, sturdy door creaked open, revealing a dusty attic filled with forgotten treasures, including a roll of rough, brown hessian cloth. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The contract's terms were **defeasible**, meaning they could be voided under certain specific circumstances. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old fisherman leaned against the gunwale, casting his line into the swirling waters. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "dissipate",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The morning fog slowly dissipated as the sun rose, revealing a breathtaking view of the valley. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the recent string of misfortunes, her Panglossian outlook remained unshaken, convinced that everything happened for the best. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "aegis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient city, once protected by the aegis of powerful gods, now lay vulnerable to the encroaching darkness. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "supranational",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The European Union's **supranational** institutions work to promote cooperation and integration among member states. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent glow of the city lights spilled out over the dark countryside. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The sailor leaned against the gunwale, watching the waves churn beneath the boat. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vitiated",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The politician's carefully crafted speech was vitiated by a single, poorly chosen phrase that revealed his true intentions. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so vapid that I found myself checking my phone every few minutes. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair needed to be **upholstered** with luxurious velvet before it could be placed in the grand library. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "banality",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the grand setting and opulent décor, the conversation was filled with such banality that I longed for a stimulating intellectual exchange. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "supranational",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The European Union, a **supranational** organization, seeks to promote peace and cooperation among its member states. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "dissipate",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The warm summer breeze slowly dissipated the lingering scent of rain. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "mien",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the weight of his responsibilities, the king maintained a regal mien, his face serene and his posture confident. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lone lighthouse keeper stood forlornly on the cliff, watching the storm rage across the sea. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "incandescent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The incandescent light from the streetlamp cast long, dancing shadows on the cobblestone street. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "banality",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The constant repetition of the same news stories reduced the once-important topic to a mere banality. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The scholar spent years poring over ancient treatises on philosophy, seeking answers to life's enduring mysteries. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "peruse",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Before making a decision, she decided to peruse the contract carefully, highlighting any points she found unclear. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old sailor leaned against the **gunwale**, watching the waves lap gently against the hull. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The boisterous laughter of the children playing in the park echoed through the neighborhood. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent strain of influenza spread rapidly through the city, overwhelming the healthcare system. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The children's boisterous laughter echoed through the park, a joyful sound that filled the air. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "MASONRY",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient **masonry** of the cathedral walls whispered tales of centuries past. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The reality show's vapid dialogue and predictable plot left me yearning for something more substantial. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "insipid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bland, tasteless soup was so insipid that it left me feeling utterly unsatisfied. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "admonish",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The teacher admonished the students for talking during the test, reminding them of the importance of quiet concentration. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bard strummed a haunting melody on his ancient lyre, its strings echoing through the silent forest. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "aegis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Under the aegis of the ancient treaty, the two nations were able to maintain peaceful relations for centuries. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "weal",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The king's actions, though intended for the weal of his kingdom, ultimately led to its downfall. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "amalgam",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's latest work was an intriguing amalgam of abstract expressionism and surrealist imagery. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "faffing",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "I spent the entire morning faffing around, trying to decide what to wear for the party. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The children's boisterous laughter echoed through the park, a joyous sound that chased away the afternoon gloom. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The press fawned over the celebrity, showering them with praise and attention. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the recent setbacks, her Panglossian optimism remained, convinced that everything would ultimately work out for the best. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The complex bureaucracy **stymied** their efforts to get the project approved, forcing them to reconsider their approach. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vivify",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's vibrant colors and bold strokes vivified the otherwise dull and lifeless landscape. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "acquiesce",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite her initial reservations, she eventually acquiesced to her friend's suggestion to go camping. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The abandoned lighthouse stood forlornly on the cliff, its once-bright lamp extinguished, a silent sentinel to the unforgiving sea. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "neophyte",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The neophyte chef nervously fumbled with the ingredients, unsure of the proper technique. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair was covered in a luxurious **hessian** fabric, adding a rustic charm to the elegant room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "weal",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The king's decree, though harsh, was ultimately enacted for the weal of the entire kingdom. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lone figure stood forlornly at the edge of the cliff, watching the storm rage across the sea. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The contract's terms were defeasible, meaning they could be revoked under certain circumstances. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The unexpected power outage completely stymied our progress on the project, forcing us to postpone the deadline. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "entomb",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient Pharaoh was entombed in a magnificent pyramid, surrounded by treasures meant to accompany him in the afterlife. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "faffing",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "I spent the whole morning faffing around with the printer, trying to get it to print a single document. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tumult",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The news of the king's sudden death sent a wave of tumult through the kingdom, throwing the court into disarray. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vitiated",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The constant bickering and negativity in the group vitiated the positive energy that had initially fueled their project. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent strain of the virus spread rapidly through the community, overwhelming the healthcare system. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "supranational",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The **supranational** organization worked to promote cooperation and economic stability among its member states. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "amalgam",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's work was an intriguing **amalgam** of traditional techniques and modern materials. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's use of diegesis was masterful, seamlessly weaving the characters' internal thoughts and anxieties into the sounds and visuals of the environment. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The peace agreement between the warring factions was tenuous at best, held together by a fragile thread of hope. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vastitude",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The vastness of the desert, with its endless dunes stretching to the horizon, evoked a sense of awe and the sheer vastitude of the natural world. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "insipid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bland, **insipid** broth lacked any real flavor, leaving the diners disappointed. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The reporters fawned over the celebrity, showering her with compliments and ignoring her obvious discomfort. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the recent economic downturn, her Panglossian outlook remained steadfast, believing that everything would ultimately work out for the best. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The archaeologist carefully brushed away the **hessian** covering the ancient artifact, revealing its intricate carvings. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so vapid that I couldn't help but yawn through the entire second act. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old sailor leaned against the **gunwale**, watching the waves crash against the hull of his weathered ship. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "aegis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient city, protected by the aegis of a powerful goddess, stood defiant against the invading army. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The conversation was so vapid, I felt like I was trapped in a loop of meaningless chatter. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his passion for art, he realized his true metier lay in the technical field of engineering. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "dissipate",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The morning fog slowly dissipated as the sun rose higher in the sky. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old dog sat forlornly by the empty food bowl, his tail drooping low. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair needed to be **upholstered** with a luxurious velvet fabric to match the rest of the living room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The scholar spent years poring over ancient treatises on alchemy, hoping to unlock the secrets of transmutation. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tumult",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The crowd erupted in a tumult of cheers and jeers as the final whistle blew, signaling the end of the tense game. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's masterful use of diegesis, seamlessly blending sound and visuals, created a truly immersive experience for the audience. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The young reporter's fawning questions about the celebrity's favorite foods made the interview feel more like an adoration session than an actual conversation. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diocese",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bishop of the diocese announced a new initiative to support local charities. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "neophyte",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "As a neophyte in the world of competitive coding, Sarah was eager to learn from the experienced mentors. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "couth",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his wealth and privilege, he was surprisingly **couth** and well-mannered, never once boasting or putting others down. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent strain of the virus spread rapidly through the community, causing widespread illness. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old bulldog's jowls wobbled as he happily lapped up his water. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "swarthy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The swarthy fisherman, his face weathered by years spent at sea, pulled in a net overflowing with shimmering silver fish. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "dissipate",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The morning fog slowly dissipated as the sun rose, revealing a breathtaking vista of the valley below. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair, its seat covered in a worn hessian fabric, creaked ominously as she sat down. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "insipid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The movie's plot was so insipid that I couldn't help but yawn through most of it. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The legal agreement was **defeasible**, meaning it could be voided under certain conditions. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "metier",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Her true **metier** lay not in politics, but in the quiet artistry of her flower arrangements. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "peruse",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Before heading to the bookstore, I perused the online catalog to see if they had the new release I was hoping to find. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the bleak circumstances, her Panglossian outlook led her to believe that everything would eventually work out for the best. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lone figure stood forlornly at the edge of the cliff, watching the sun sink below the horizon. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "supranational",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The **supranational** organization aimed to promote economic cooperation and stability among its member nations. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "wiseacre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old wiseacre chuckled, his eyes twinkling with mischief as he offered a piece of dubious advice. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "gunwale",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old sailor leaned against the gunwale, watching the waves lap at the hull of his weathered boat. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist assiduously applied layers of paint, meticulously blending each stroke to create a masterpiece of subtle beauty. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old bulldog's jowls quivered with each happy snort as he greeted his owner. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "foist",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The salesman tried to **foist** a faulty appliance on the unsuspecting customer, claiming it was the latest model. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "portentous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The gathering storm clouds, dark and ominous, cast a portentous shadow over the once-peaceful valley. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Panglossian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the bleak reality of their situation, the group clung to a Panglossian outlook, believing that everything happened for the best. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "verbiage",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The legal document was filled with unnecessary verbiage, making it difficult to understand the key points. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tumult",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The news of the king's death spread through the city like wildfire, causing a tumult of fear and uncertainty. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "meretricious",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique shop was filled with dusty, **meretricious** trinkets that promised more glamour than they could deliver. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "vastitude",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The vastitude of the desert stretched before them, an endless expanse of sand and sky. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair needed to be **upholstered** with a luxurious velvet fabric to match the opulent decor of the dining room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "cynosure",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The majestic oak tree, with its sprawling branches and ancient wisdom, stood as the cynosure of the park, attracting the gaze of all who passed by. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "banality",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The endless stream of celebrity gossip filled the magazine with a crushing banality. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Vapid",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The reality show offered nothing but vapid entertainment, filled with superficial drama and empty conversations. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The complex regulations surrounding international trade stymied the company's efforts to expand into new markets. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "dissipate",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The morning fog began to dissipate as the sun peeked over the horizon. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "jowls",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old bulldog's jowls wobbled with each heavy breath he took. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lawyer argued that the contract's clause was **defeasible**, meaning it could be overturned under certain circumstances. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "swarthy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The swarthy fisherman, tanned by years of working under the sun, stood out against the pale tourists on the beach. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "buoy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The colorful buoy bobbed gently on the waves, marking the entrance to the harbor. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "cynosure",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The renowned scientist, with her groundbreaking research, became the cynosure of the scientific community, drawing attention and admiration from all corners of the field. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The reporters fawned over the celebrity, showering them with praise and eager questions. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "amalgam",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's work was an intriguing amalgam of traditional techniques and modern aesthetics. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "fawning",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The paparazzi fawned over the celebrity, snapping photos and shouting questions. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's diegesis was cleverly constructed, seamlessly integrating the protagonist's internal monologue with the external world through subtle sound design. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "assiduously",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist assiduously worked on the intricate details of the painting, spending hours refining every brushstroke. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "treatises",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The professor's extensive research was summarized in several weighty treatises on the history of ancient Rome. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "defeasible",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The contract's terms were **defeasible** under certain circumstances, allowing for renegotiation if market conditions changed significantly. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Veer",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The young sailor felt his stomach **veer** with fear as the storm raged around their small boat. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The abandoned dog sat forlornly by the empty food bowl, its tail drooping between its legs. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "meretricious",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The museum's exhibit, though filled with **meretricious** gold and jewels, lacked any genuine artistic merit. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "virulent",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The virulent strain of influenza spread rapidly through the community, causing widespread illness. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "stymied",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The intricate puzzle, with its seemingly endless possibilities, left the detective stymied. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The boisterous crowd cheered as the winning team took the field. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The lone figure stood forlornly at the edge of the pier, watching the last sliver of sun sink below the horizon. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "amalgam",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The artist's latest work was an intriguing amalgam of modern and traditional techniques, blending vibrant colors with ancient symbols. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "portentous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The storm clouds gathering on the horizon were a portentous sign of the tempest to come. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "panacea",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "While some believe technology is the panacea for all our problems, it's important to remember that human connection and empathy are equally crucial. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tumult",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The news of the king's death spread through the kingdom, creating a tumult of grief and confusion. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "tenuous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The peace treaty was a tenuous agreement, held together by fragile promises and unspoken anxieties. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "nowise",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the evidence, he was nowise convinced of his friend's guilt. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "boisterous",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The children's boisterous laughter echoed through the park, a joyful cacophony of pure fun. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "lyre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The bard, his fingers dancing across the strings of his lyre, sang a mournful ballad of lost love. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Forlornly",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The abandoned lighthouse stood forlornly on the windswept cliff, its lonely beacon extinguished. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diocese",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The Bishop of the diocese announced plans for a new school to serve the growing community. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "admonish",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The teacher admonished the students for talking during the test, reminding them of the importance of focus and respect for the learning environment. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "wiseacre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old wiseacre chuckled, \"Don't worry about the future, young man, just focus on making the most of today.\" \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique tapestry, woven from a fine **hessian** fabric, depicted a scene of medieval knights jousting. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "mien",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite the chaos around her, she maintained a calm and composed mien, her expression unreadable. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "Upholster",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair was in dire need of reupholstering, its once vibrant velvet faded and worn. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "wiseacre",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The old wiseacre chuckled, his eyes twinkling with mischief, as he shared another one of his witty, though often dubious, stories. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "hessian",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The antique chair, covered in a luxurious **hessian** fabric, added a rustic charm to the modern living room. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "swarthy",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The swarthy fisherman, weathered by years at sea, had a mischievous glint in his eye. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "intermittently",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The rain fell intermittently throughout the day, making it difficult to plan outdoor activities. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "aegis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient city, once protected by the aegis of a powerful goddess, now lay in ruins, its former glory lost to the sands of time. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "entomb",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The ancient Pharaoh was entombed in a magnificent pyramid, adorned with intricate hieroglyphs and treasures. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "diegesis",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "The film's diegesis was carefully constructed, seamlessly blending the characters' inner thoughts with the external events unfolding around them. \n"
+        }
+      ],
+      "role": "model"
+    }
+  },
+  {
+    "term": "mien",
+    "generatedSentence": {
+      "parts": [
+        {
+          "text": "Despite his gruff demeanor, the old captain's gentle mien when speaking of his lost crew revealed a deep well of compassion. \n"
         }
       ],
       "role": "model"

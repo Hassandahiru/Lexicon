@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/app.js",
-    "db": "nodemon src/database/localHost.js"
+    "db": "nodemon src/database/localHost.js",
+    "on": "nodemon src/app.js && node src/utils/Processes/simpleSentenceP.js"
   },
   "keywords": [],
   "author": "",

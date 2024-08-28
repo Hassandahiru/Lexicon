@@ -99,6 +99,35 @@ try {
           console.error('Error fetching words:', error);
         }
       };
+
+      const fetchAndDisplaySentences = async () => {
+        try {
+            // Fetch sample sentences from the API
+            const response = await fetch('http://localhost:4020/home/sentences');
+            const sentences = await response.json();
+    
+            // Get the table body element
+            const tableBody = document.querySelector('#sentences-tbody');
+            tableBody.innerHTML = ''; // Clear the table before adding new rows
+    
+            // Iterate over the fetched sentences and create table rows
+            sentences.forEach(entry => {
+                const row = document.createElement('tr');
+                const termCell = document.createElement('td');
+                const sentenceCell = document.createElement('td');
+    
+                termCell.textContent = entry.term;
+                sentenceCell.textContent = entry.text; // Corrected to use the 'text' property
+    
+                row.appendChild(termCell);
+                row.appendChild(sentenceCell);
+                tableBody.appendChild(row);
+            });
+        } catch (error) {
+            console.error('Error fetching sample sentences:', error);
+        }
+    };
+    
       // Periodically send words to the backend every 10 seconds
       setInterval(() => {
         if (words.length > 0) {
@@ -107,5 +136,7 @@ try {
       }, 30000); // 10 seconds
 
         // Periodically fetch and display definitions every 30 seconds
+  
+  fetchAndDisplaySentences();
   fetchAndDisplayDefinitions(); // Initial call
   setInterval(fetchAndDisplayDefinitions, 30000); // Subsequent calls every 30 seconds

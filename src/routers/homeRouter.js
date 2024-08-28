@@ -4,6 +4,8 @@ import { dirname, join } from 'path';
 import { db }  from '../database/localHost.js';
 import { Word } from '../models/word.js';
 import { deleteLockFileIfExists } from '../database/scripts/DBfunctions.js'
+import { readFile } from 'fs/promises'; 
+
 
 const homeRouter = express.Router();
 const __filename = fileURLToPath(import.meta.url);
@@ -112,4 +114,35 @@ homeRouter.get('/definitions', async (req, res) => {
   }
 });
 
+homeRouter.get('/sentences', async (req, res) => {
+  const jsonFilePath = '/Users/hassan/Desktop/Projects_DevFiles/ElectronApps/Lexicon/src/files/sampleSentences.json';
+  
+  try {
+    // Read the content of the JSON file
+    const data = await readFile(jsonFilePath, 'utf8');
+    const jsonData = JSON.parse(data);
+
+    // Map over the data to extract 'term' and 'text'
+    const termsWithText = jsonData.map(item => {
+      const textParts = item.generatedSentence?.parts?.map(part => part.text).join(' ').trim() || '';
+      
+      return {
+        term: item.term,
+        text: textParts
+      };
+    });
+
+    // Send the extracted data as the response
+    res.json(termsWithText);
+  } catch (error) {
+    console.error('Error reading the JSON file:', error);
+    res.status(500).json({ error: 'Failed to read JSON file' });
+  }
+});
+
 export { homeRouter };
+
+
+
+  
+

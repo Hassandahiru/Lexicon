@@ -50,6 +50,7 @@ function deleteLockFileIfExists() {
 }
 
 async function getAllTerms() {
+  deleteLockFileIfExists();
   try {
       // Fetch all documents from the database
       const result = await db.allDocs({ include_docs: true });
